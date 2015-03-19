@@ -1,0 +1,29 @@
+#	Config Resoure File
+#
+#	Give values in the form [name]:[value]{[value][value]...[value]!} on one line
+#
+#	For more than one gene make sure to place gene name, chromosome, start, and end
+#	in groups.  The program will read these parameters in any order but always as
+#	a group.
+#
+#	Coordinates should be given from GRCh37.p13
+
+gene		:	TRPV1
+chromosome	:	chr17
+start		:	3468740
+end		:	3512705
+
+gene		:	TRPV2
+chromosome	:	chr17
+start		:	16318856
+end		:	16340317
+
+gene		:	TRPM1
+chromosome	:	chr15
+start		:	31293264
+end		:	31453476
+
+gene		:	TRPM8
+chromosome	:	chr2
+start		:	234826043
+end		:	234928166
