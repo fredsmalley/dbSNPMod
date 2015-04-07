@@ -1,0 +1,919 @@
+#bin	chrom	chromStart	chromEnd	name	score	strand	refNCBI	refUCSC	observed	molType	class	valid	avHet	avHetSE	func	locType	weight	exceptions	submitterCount	submitters	alleleFreqCount	alleles	alleleNs	alleleFreqs	bitfields
+642	chr17	7571751	7571752	rs78378222	0	-	T	T	A/C	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	InconsistentAlleles	4	1000GENOMES,EVA-GONL,ILLUMINA,RDMLAB,	4	A,C,G,T,	4995.000000,13.000000,13.000000,4995.000000,	0.498702,0.001298,0.001298,0.498702,	microattr-tpa
+642	chr17	7571829	7571830	rs139396032	0	+	A	A	A/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7571856	7571857	rs114831472	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		2	1000GENOMES,ILLUMINA,	2	A,G,	39.000000,4969.000000,	0.007788,0.992212,	
+642	chr17	7571863	7571864	rs576851964	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7571869	7571871	rs1794292	0	-	GG	GG	C/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	rangeDeletion	1	MixedObserved,FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch	2	SC_JCM,SEQUENOM,	0				observed-mismatch
+642	chr17	7571869	7571871	rs34734132	0	+	GG	GG	CC/GG	genomic	mnp	unknown	0	0	ncRNA,untranslated-3	rangeSubstitution	1	MixedObserved,FlankMismatchGenomeEqual	1	ABI,	0				
+642	chr17	7571930	7571931	rs373069673	0	+	T	T	A/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	TISHKOFF,	0				
+642	chr17	7571935	7571936	rs540817365	0	+	C	C	A/C	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,C,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7571990	7571991	rs55817367	0	+	T	T	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		2	1000GENOMES,CGM_KYOTO,	2	C,T,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7572040	7572041	rs35659787	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	InconsistentAlleles	3	1000GENOMES,JMKIDD_LAB,SNP500CANCER,	4	A,C,G,T,	3.000000,5005.000000,5005.000000,3.000000,	0.000300,0.499700,0.499700,0.000300,	
+642	chr17	7572063	7572064	rs541641686	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7572071	7572072	rs17884586	0	-	G	G	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	1.000000,5007.000000,5007.000000,1.000000,	0.000100,0.499900,0.499900,0.000100,	
+642	chr17	7572100	7572101	rs17884306	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	InconsistentAlleles	11	1000GENOMES,CGM_KYOTO,CNGFU,EGP_SNPS,EVA-GONL,GMI,JMKIDD_LAB,SNP500CANCER,SSMP,TISHKOFF,TKS,	4	A,C,G,T,	286.000000,4722.000000,4722.000000,286.000000,	0.028554,0.471446,0.471446,0.028554,	maf-5-some-pop
+642	chr17	7572101	7572102	rs552520476	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7572129	7572129	rs35940853	0	+	-	-	-/A	genomic	insertion	unknown	0	0	ncRNA,untranslated-3	between	1		1	ABI,	0				
+642	chr17	7572144	7572145	rs564370767	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7572153	7572154	rs200378797	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		2	1000GENOMES,GMI,	2	A,G,	2178.000000,2830.000000,	0.434904,0.565096,	
+642	chr17	7572154	7572155	rs200757381	0	+	A	A	-/A	genomic	deletion	by-cluster	0	0	ncRNA,untranslated-3	exact	1	MixedObserved	2	GMI,SSMP,	0				
+642	chr17	7572154	7572155	rs376415575	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	MixedObserved	1	GMI,	0				
+642	chr17	7572163	7572164	rs547075078	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7572172	7572173	rs199729221	0	-	G	G	C/T	genomic	single	by-cluster	0	0	ncRNA,untranslated-3	exact	1	MixedObserved	1	ILLUMINA,	0				
+642	chr17	7572172	7572173	rs368059785	0	+	G	G	-/G	genomic	deletion	unknown	0	0	ncRNA,untranslated-3	exact	1	MixedObserved	1	LUNTER,	0				
+642	chr17	7572228	7572229	rs563401383	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	EVA-GONL,	0				
+642	chr17	7572230	7572231	rs568571322	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7572252	7572253	rs34182553	0	+	G	G	-/G	genomic	deletion	unknown	0	0	ncRNA,untranslated-3	exact	1		1	ABI,	0				
+642	chr17	7572291	7572293	rs1794291	0	-	TC	TC	A/G	genomic	single	by-cluster	0	0	ncRNA,untranslated-3	rangeDeletion	1	FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch,SingleAlleleFreq	2	SC_JCM,SNP500CANCER,	1	A,	408.000000,	1.000000,	observed-mismatch
+642	chr17	7572292	7572293	rs1042535	0	-	C	C	C/G	genomic	single	by-hapmap	0	0	ncRNA,untranslated-3	exact	1	MixedObserved	3	LEE,SC_JCM,SEQUENOM,	0				
+642	chr17	7572292	7572293	rs371242826	0	+	C	C	CG/TC	genomic	mnp	by-hapmap	0	0	ncRNA,untranslated-3	rangeInsertion	1	MixedObserved,FlankMismatchGenomeLonger,ObservedMismatch,SingleAlleleFreq	1	ABI,	1	C,	404.000000,	1.000000,	
+642	chr17	7572313	7572314	rs17879353	0	-	G	G	A/C	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	InconsistentAlleles	5	1000GENOMES,EGP_SNPS,ILLUMINA,SNP500CANCER,SSMP,	4	A,C,G,T,	29.000000,4979.000000,4979.000000,29.000000,	0.002895,0.497105,0.497105,0.002895,	maf-5-some-pop
+642	chr17	7572319	7572320	rs554283011	0	+	G	G	C/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7572331	7572332	rs34607064	0	+	G	G	-/G	genomic	deletion	unknown	0	0	ncRNA,untranslated-3	exact	1		1	ABI,	0				
+642	chr17	7572356	7572358	rs202099016	0	+	AC	AC	-/AC	genomic	deletion	unknown	0	0	ncRNA,untranslated-3	range	1		2	1000GENOMES,LUNTER,	2	-,AC,	72.000000,4936.000000,	0.014377,0.985623,	
+642	chr17	7572357	7572357	rs200962122	0	+	-	-	-/AC	genomic	insertion	unknown	0	0	ncRNA,untranslated-3	between	1		1	ILLUMINA,	0				
+642	chr17	7572391	7572393	rs1811095	0	-	GA	GA	C/T	genomic	single	by-cluster,by-frequency	0.019046	0.095709	ncRNA,untranslated-3	rangeDeletion	1	MixedObserved,FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch	3	SC_JCM,SNP500CANCER,TSC-CSHL,	2	C,T,	4.000000,412.000000,	0.009615,0.990385,	observed-mismatch
+642	chr17	7572391	7572393	rs35944977	0	+	GA	GA	AG/GA	genomic	mnp	unknown	0	0	ncRNA,untranslated-3	rangeSubstitution	1	MixedObserved,FlankMismatchGenomeEqual	1	ABI,	0				
+642	chr17	7572397	7572398	rs551213894	0	+	C	C	C/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	C,G,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7572412	7572413	rs916132	0	-	A	A	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	SingleAlleleFreq	3	LEE,SEQUENOM,TSC-CSHL,	1	T,	4.000000,	1.000000,	
+642	chr17	7572424	7572425	rs569519287	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7572435	7572436	rs916131	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	SingleAlleleFreq	4	ABI,LEE,SC_JCM,TSC-CSHL,	1	G,	58.000000,	1.000000,	
+642	chr17	7572441	7572442	rs4968187	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		12	1000GENOMES,CGM_KYOTO,EGP_SNPS,EVA-GONL,GMI,ILLUMINA,JMKIDD_LAB,KRIBB_YJKIM,SNP500CANCER,SSMP,TKS,WI_SSAHASNP,	2	C,T,	4752.000000,256.000000,	0.948882,0.051118,	maf-5-some-pop
+642	chr17	7572445	7572446	rs546208790	0	+	T	T	A/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7572459	7572460	rs377621596	0	+	G	G	G/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	SSMP,	0				
+642	chr17	7572517	7572518	rs191918079	0	+	G	G	G/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		2	1000GENOMES,EVA-GONL,	2	G,T,	4999.000000,9.000000,	0.998203,0.001797,	
+642	chr17	7572539	7572540	rs558662880	0	+	G	G	G/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		2	1000GENOMES,SSIP,	2	G,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7572569	7572570	rs534624315	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7572598	7572599	rs17881366	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	InconsistentAlleles	4	1000GENOMES,EGP_SNPS,ILLUMINA,SNP500CANCER,	4	A,C,G,T,	31.000000,4977.000000,4977.000000,31.000000,	0.003095,0.496905,0.496905,0.003095,	
+642	chr17	7572612	7572613	rs34486624	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	InconsistentAlleles	2	1000GENOMES,SNP500CANCER,	4	A,C,G,T,	6.000000,5002.000000,5002.000000,6.000000,	0.000599,0.499401,0.499401,0.000599,	
+642	chr17	7572617	7572618	rs79516338	0	+	C	C	A/C	genomic	single	by-frequency	0.5	0	ncRNA,untranslated-3	exact	1		1	ENSEMBL,	2	A,C,	2.000000,2.000000,	0.500000,0.500000,	
+642	chr17	7572721	7572722	rs16956880	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		5	1000GENOMES,EGP_SNPS,ILLUMINA,JMKIDD_LAB,PERLEGEN,	2	C,T,	4980.000000,28.000000,	0.994409,0.005591,	maf-5-some-pop
+642	chr17	7572732	7572733	rs560862596	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	MixedObserved	1	EVA-GONL,	0				
+642	chr17	7572732	7572732	rs140346117	0	+	-	-	-/T	genomic	insertion	unknown	0	0	ncRNA,untranslated-3	between	1	MixedObserved	1	PJP,	0				
+642	chr17	7572782	7572783	rs371002418	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		2	1000GENOMES,SSMP,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7572820	7572821	rs375913211	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	SSMP,	0				
+642	chr17	7572821	7572822	rs35919705	0	-	G	G	C/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1	InconsistentAlleles	2	1000GENOMES,SNP500CANCER,	4	A,C,G,T,	7.000000,5001.000000,5001.000000,7.000000,	0.000699,0.499301,0.499301,0.000699,	
+642	chr17	7572889	7572890	rs1042526	0	-	T	T	A/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		2	LEE,SC_JCM,	2	A,T,	184.000000,0.000000,	1.000000,0.000000,	
+642	chr17	7572892	7572893	rs545818827	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7572911	7572912	rs374294340	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7572917	7572918	rs8065799	0	+	T	T	G/T	genomic	single	by-hapmap	0	0	ncRNA,untranslated-3	exact	1	SingleAlleleFreq	1	WI_SSAHASNP,	1	T,	418.000000,	1.000000,	
+642	chr17	7572920	7572921	rs369567704	0	+	A	A	A/T	genomic	single	unknown	0	0	ncRNA,untranslated-3	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7572959	7572960	rs373710656	0	+	G	G	A/G	genomic	single	unknown	0	0	coding-synon,ncRNA,untranslated-3	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7572961	7572962	rs150842067	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	PJP,	0				
+642	chr17	7572976	7572977	rs80184930	0	+	A	A	A/G	genomic	single	unknown	0.5	0	ncRNA,missense,untranslated-3	exact	1		1	BUSHMAN,	2	A,G,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7573056	7573057	rs17881850	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	8	1000GENOMES,CGM_KYOTO,CNGFU,EGP_SNPS,EVA-GONL,ILLUMINA,JMKIDD_LAB,NHLBI-ESP,	4	A,C,G,T,	38.000000,4970.000000,4970.000000,38.000000,	0.003794,0.496206,0.496206,0.003794,	maf-5-some-pop
+642	chr17	7573080	7573081	rs17883043	0	-	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		5	1000GENOMES,CGM_KYOTO,EGP_SNPS,EVA-GONL,JMKIDD_LAB,	2	C,G,	5008.000000,5008.000000,	0.500000,0.500000,	
+642	chr17	7573095	7573096	rs145723145	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5001.000000,7.000000,	0.998602,0.001398,	
+642	chr17	7573111	7573112	rs562130162	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7573167	7573168	rs148924516	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5005.000000,3.000000,	0.999401,0.000599,	
+642	chr17	7573207	7573208	rs576983083	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSIP,	2	A,G,	4985.000000,23.000000,	0.995407,0.004593,	
+642	chr17	7573210	7573211	rs116597433	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5005.000000,3.000000,	0.999401,0.000599,	
+642	chr17	7573221	7573222	rs17886820	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	5	1000GENOMES,EGP_SNPS,EVA-GONL,ILLUMINA,JMKIDD_LAB,	4	A,C,G,T,	4960.000000,48.000000,48.000000,4960.000000,	0.495208,0.004792,0.004792,0.495208,	
+642	chr17	7573228	7573229	rs6503048	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		11	1000GENOMES,BCM_SSAHASNP,COMPLETE_GENOMICS,EGP_SNPS,EVA-GONL,GMI,ILLUMINA-UK,PJP,SSMP,TISHKOFF,WI_SSAHASNP,	2	C,T,	4184.000000,824.000000,	0.835463,0.164537,	maf-5-some-pop
+642	chr17	7573239	7573240	rs567172278	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7573252	7573253	rs534282314	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7573267	7573268	rs527453856	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7573280	7573281	rs552581224	0	+	A	A	A/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7573322	7573323	rs567792812	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7573331	7573332	rs535217969	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7573369	7573370	rs17878510	0	-	G	G	C/T	genomic	single	unknown	0.011428	0.074723	intron	exact	1		1	EGP_SNPS,	2	C,T,	173.000000,1.000000,	0.994253,0.005747,	
+642	chr17	7573378	7573379	rs557108944	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7573382	7573383	rs59098034	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		5	1000GENOMES,COMPLETE_GENOMICS,EVA-GONL,HGSV,TISHKOFF,	2	C,T,	4926.000000,82.000000,	0.983626,0.016374,	
+642	chr17	7573383	7573384	rs112847074	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		5	1000GENOMES,BUSHMAN,JMKIDD_LAB,SSMP,TISHKOFF,	2	A,G,	35.000000,4973.000000,	0.006989,0.993011,	
+642	chr17	7573448	7573449	rs17881097	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	4	1000GENOMES,EGP_SNPS,JMKIDD_LAB,TISHKOFF,	4	A,C,G,T,	24.000000,4984.000000,4984.000000,24.000000,	0.002396,0.497604,0.497604,0.002396,	
+642	chr17	7573456	7573457	rs573108091	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7573467	7573468	rs540616984	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7573495	7573496	rs562093509	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	4.000000,5004.000000,	0.000799,0.999201,	
+642	chr17	7573499	7573500	rs184902382	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	6.000000,5002.000000,	0.001198,0.998802,	
+642	chr17	7573506	7573507	rs544759991	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7573516	7573517	rs563011559	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7573526	7573527	rs373630656	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7573595	7573596	rs533320504	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7573596	7573597	rs541043048	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7573662	7573663	rs551963476	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7573675	7573675	rs34071557	0	+	-	-	-/G	genomic	insertion	unknown	0	0	intron	between	1		1	ABI,	0				
+642	chr17	7573680	7573680	rs34481829	0	+	-	-	-/G	genomic	insertion	unknown	0	0	intron	between	1		1	ABI,	0				
+642	chr17	7573687	7573688	rs200833833	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,GMI,	2	C,T,	4.000000,5004.000000,	0.000799,0.999201,	
+642	chr17	7573770	7573771	rs373232559	0	+	C	C	C/T	genomic	single	by-cluster	0	0	intron	exact	1		2	SSMP,TISHKOFF,	0				
+642	chr17	7573772	7573773	rs45599946	0	-	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		4	1000GENOMES,CGM_KYOTO,CNGFU,EVA-GONL,	2	C,G,	5008.000000,5008.000000,	0.500000,0.500000,	
+642	chr17	7573779	7573780	rs113532093	0	+	A	A	-/A	genomic	deletion	unknown	0.5	0	intron	exact	1		1	BUSHMAN,	2	-,A,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7573793	7573794	rs546183010	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7573866	7573867	rs375905156	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,TISHKOFF,	2	A,G,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7573896	7573897	rs17880847	0	-	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1		7	1000GENOMES,CGM_KYOTO,CNGFU,EGP_SNPS,EVA-GONL,JMKIDD_LAB,NHLBI-ESP,	2	A,T,	5008.000000,5008.000000,	0.500000,0.500000,	
+642	chr17	7573905	7573906	rs2856755	0	-	G	G	A/C	genomic	single	by-cluster,by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	2	SC_JCM,SNP500CANCER,	1	C,	788.000000,	1.000000,	
+642	chr17	7573913	7573914	rs77881630	0	+	T	T	G/T	genomic	single	unknown	0.5	0	intron	exact	1		1	ENSEMBL,	2	G,T,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7573916	7573917	rs374041625	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7573930	7573931	rs17881470	0	-	A	A	G/T	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1	InconsistentAlleles	3	1000GENOMES,EGP_SNPS,ILLUMINA,	4	A,C,G,T,	5007.000000,1.000000,1.000000,5007.000000,	0.499900,0.000100,0.000100,0.499900,	
+642	chr17	7573933	7573934	rs267605075	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	YSAMUELS,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7573947	7573948	rs35993958	0	-	C	C	C/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		4	1000GENOMES,EXOME_CHIP,NHLBI-ESP,SNP500CANCER,	2	C,G,	5008.000000,5008.000000,	0.500000,0.500000,	
+642	chr17	7573949	7573950	rs539224556	0	+	T	T	C/T	genomic	single	unknown	0	0	coding-synon,ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7573975	7573976	rs141402957	0	+	T	T	C/T	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	YSAMUELS,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7573986	7573987	rs397516434	0	-	G	G	A/C	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	LMM-PCPGM,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7573995	7573996	rs121912662	0	-	A	A	C/T	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7573999	7574000	rs375573770	0	+	C	C	C/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7574001	7574002	rs375338359	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7574011	7574012	rs17882252	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		3	EGP_SNPS,ILLUMINA,KRIBB_YJKIM,	2	A,G,	4.000000,670.000000,	0.005935,0.994065,	
+642	chr17	7574012	7574013	rs150293825	0	+	G	G	A/C/G	genomic	single	unknown	0	0	coding-synon,ncRNA,missense,untranslated-3	exact	1	SingleClassTriAllelic,InconsistentAlleles	3	1000GENOMES,EXOME_CHIP,NHLBI-ESP,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574016	7574017	rs121912664	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7574023	7574024	rs375444154	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7574028	7574029	rs573154688	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,missense,untranslated-3	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7574037	7574038	rs375273756	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7574049	7574050	rs368691910	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,NHLBI-ESP,	2	A,G,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7574050	7574051	rs371831907	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7574068	7574069	rs2856754	0	-	A	A	A/T	genomic	single	by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	1	SC_JCM,	1	T,	414.000000,	1.000000,	
+642	chr17	7574073	7574074	rs555791463	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574114	7574115	rs574044660	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574118	7574119	rs544624015	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574122	7574123	rs555389091	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7574124	7574125	rs2543550	0	-	T	T	A/T	genomic	single	by-hapmap	0	0	intron	exact	1	DuplicateObserved,SingleAlleleFreq	1	SC_JCM,	1	A,	420.000000,	1.000000,	
+642	chr17	7574124	7574126	rs2856921	0	-	TA	TA	A/T	genomic	single	unknown	0	0	intron	rangeDeletion	1	DuplicateObserved,FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch	1	SC_JCM,	0				observed-mismatch
+642	chr17	7574215	7574216	rs567314083	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7574266	7574268	rs1627617	0	-	GC	GC	C/G	genomic	single	unknown	0	0	intron	rangeDeletion	1	FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch	1	SC_JCM,	0				observed-mismatch
+642	chr17	7574314	7574315	rs17883852	0	-	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		4	1000GENOMES,BUSHMAN,EGP_SNPS,JMKIDD_LAB,	2	C,G,	5008.000000,5008.000000,	0.500000,0.500000,	
+642	chr17	7574420	7574421	rs533498896	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574442	7574443	rs12938753	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		1	SSAHASNP,	0				
+642	chr17	7574457	7574458	rs545247733	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7574485	7574486	rs560783470	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574493	7574494	rs17884559	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	5003.000000,5.000000,5.000000,5003.000000,	0.499501,0.000499,0.000499,0.499501,	
+642	chr17	7574495	7574496	rs12946538	0	+	T	T	A/T	genomic	single	by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	1	SSAHASNP,	1	T,	420.000000,	1.000000,	
+642	chr17	7574504	7574505	rs549224203	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7574547	7574548	rs17884322	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	3	1000GENOMES,EGP_SNPS,TISHKOFF,	4	A,C,G,T,	4992.000000,16.000000,16.000000,4992.000000,	0.498403,0.001597,0.001597,0.498403,	
+642	chr17	7574548	7574549	rs184454769	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000918	0.0214	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7574582	7574583	rs528829894	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	G,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7574616	7574617	rs534826791	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7574617	7574618	rs137965105	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7574641	7574642	rs371516690	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7574658	7574659	rs568844938	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574676	7574677	rs374036485	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSMP,	2	C,T,	16.000000,4992.000000,	0.003195,0.996805,	
+642	chr17	7574679	7574680	rs188174141	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		3	1000GENOMES,JMKIDD_LAB,TISHKOFF,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7574680	7574681	rs181967587	0	+	G	G	A/G	genomic	single	by-1000genomes	0.006407	0.056237	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7574683	7574684	rs36118870	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7574720	7574721	rs17879377	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	3	1000GENOMES,EGP_SNPS,EVA-GONL,	4	A,C,G,T,	65.000000,4943.000000,4943.000000,65.000000,	0.006490,0.493510,0.493510,0.006490,	
+642	chr17	7574774	7574775	rs1641549	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	19	1000GENOMES,ABI,BCM-HGSC-SUB,BCM_SSAHASNP,BUSHMAN,COMPLETE_GENOMICS,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,JMKIDD_LAB,PJP,SC_JCM,SEQUENOM,SSMP,TISHKOFF,WI_SSAHASNP,	4	A,C,G,T,	2152.000000,2856.000000,2856.000000,2152.000000,	0.214856,0.285144,0.285144,0.214856,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7574778	7574779	rs1641548	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	11	1000GENOMES,ABI,EGP_SNPS,EVA-GONL,GMI,HGSV,JMKIDD_LAB,SC_JCM,SEQUENOM,SSMP,TISHKOFF,	4	A,C,G,T,	529.000000,4479.000000,4479.000000,529.000000,	0.052815,0.447185,0.447185,0.052815,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7574815	7574816	rs573996273	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7574840	7574841	rs17880467	0	-	C	C	G/T	genomic	single	unknown	0.011049	0.073502	intron	exact	1		1	EGP_SNPS,	2	G,T,	179.000000,1.000000,	0.994444,0.005556,	
+642	chr17	7574863	7574864	rs9891744	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		8	1000GENOMES,BCM_SSAHASNP,EGP_SNPS,EVA-GONL,GMI,JMKIDD_LAB,SSMP,TISHKOFF,	2	C,T,	4585.000000,423.000000,	0.915535,0.084465,	
+642	chr17	7574896	7574897	rs17879148	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	2.000000,5006.000000,5006.000000,2.000000,	0.000200,0.499800,0.499800,0.000200,	
+642	chr17	7574905	7574906	rs184744474	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000918	0.0214	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7574908	7574909	rs578029160	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7574928	7574929	rs545532442	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5.000000,5003.000000,	0.000998,0.999002,	
+642	chr17	7574935	7574936	rs858528	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	MixedObserved,InconsistentAlleles	16	1000GENOMES,ABI,BUSHMAN,COMPLETE_GENOMICS,EGP_SNPS,EVA-GONL,HGSV,ILLUMINA,ILLUMINA-UK,JMKIDD_LAB,KWOK,PJP,SC_JCM,SSMP,TISHKOFF,WI_SSAHASNP,	4	A,C,G,T,	855.000000,4153.000000,4153.000000,855.000000,	0.085363,0.414637,0.414637,0.085363,	maf-5-some-pop
+642	chr17	7574935	7574938	rs386795046	0	+	CGC	CGC	CGC/TGT	genomic	mnp	unknown	0	0	intron	rangeSubstitution	1	MixedObserved,FlankMismatchGenomeEqual	1	TISHKOFF,	0				
+642	chr17	7574943	7574944	rs189071925	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,JMKIDD_LAB,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574952	7574953	rs542829475	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7574996	7574997	rs181893255	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7575004	7575005	rs2856753	0	-	C	C	A/G	genomic	single	by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	1	SC_JCM,	1	G,	414.000000,	1.000000,	
+642	chr17	7575016	7575017	rs2543549	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	DuplicateObserved	1	SC_JCM,	0				
+642	chr17	7575016	7575018	rs2856752	0	-	TC	TC	A/G	genomic	single	unknown	0	0	intron	rangeDeletion	1	DuplicateObserved,FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch	1	SC_JCM,	0				observed-mismatch
+642	chr17	7575102	7575103	rs531910508	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7575117	7575118	rs550289831	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7575122	7575123	rs542931290	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7575135	7575136	rs78339449	0	+	C	C	A/C	genomic	single	by-cluster	0	0	intron	exact	1		1	GMI,	0				
+642	chr17	7575273	7575274	rs372884119	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7575277	7575278	rs532881941	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7575320	7575321	rs551407356	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7575323	7575324	rs566578950	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7575398	7575399	rs560899639	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7575430	7575431	rs186939279	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7575449	7575450	rs549217778	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5005.000000,3.000000,	0.999401,0.000599,	
+642	chr17	7575460	7575461	rs567554024	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7575482	7575483	rs34937086	0	+	G	G	-/G	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7575485	7575486	rs35184400	0	+	G	G	-/G	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7575513	7575514	rs146137066	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	4980.000000,28.000000,	0.994409,0.005591,	
+642	chr17	7575554	7575555	rs1642794	0	-	A	A	G/T	genomic	single	unknown	0	0	intron	exact	1	SingleAlleleFreq	2	ABI,SC_JCM,	1	T,	2.000000,	1.000000,	
+642	chr17	7575563	7575564	rs1642793	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	18	1000GENOMES,ABI,BCM-HGSC-SUB,BCMHGSC_JDW,BL,BUSHMAN,COMPLETE_GENOMICS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,JMKIDD_LAB,PJP,SC_JCM,SSAHASNP,SSMP,WI_SSAHASNP,	4	A,C,G,T,	845.000000,4163.000000,4163.000000,845.000000,	0.084365,0.415635,0.415635,0.084365,	
+642	chr17	7575629	7575629	rs35821533	0	+	-	-	-/A	genomic	insertion	unknown	0	0	intron	between	1		1	ABI,	0				
+642	chr17	7575632	7575633	rs577924025	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5001.000000,7.000000,	0.998602,0.001398,	
+642	chr17	7575646	7575646	rs34833072	0	+	-	-	-/A	genomic	insertion	unknown	0	0	intron	between	1		1	ABI,	0				
+642	chr17	7575712	7575713	rs111537395	0	+	A	A	A/T	genomic	single	unknown	0	0	intron	exact	1		4	1000GENOMES,BUSHMAN,JMKIDD_LAB,SSMP,	2	A,T,	4982.000000,26.000000,	0.994808,0.005192,	
+642	chr17	7575732	7575733	rs12949655	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		14	1000GENOMES,ABI,BCM-HGSC-SUB,COMPLETE_GENOMICS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,JMKIDD_LAB,PJP,SSAHASNP,SSMP,TISHKOFF,	2	A,G,	4111.000000,897.000000,	0.820887,0.179113,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7575916	7575917	rs572228741	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7575951	7575952	rs542790794	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7576110	7576111	rs561180123	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	G,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7576143	7576144	rs576653882	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	6.000000,5002.000000,	0.001198,0.998802,	
+642	chr17	7576145	7576146	rs377562831	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7576150	7576151	rs1642792	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	3	1000GENOMES,EVA-GONL,SC_JCM,	4	A,C,G,T,	16.000000,4992.000000,4992.000000,16.000000,	0.001597,0.498403,0.498403,0.001597,	
+642	chr17	7576220	7576221	rs565441023	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7576245	7576246	rs532898697	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7576271	7576272	rs181226769	0	+	A	A	A/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7576275	7576276	rs60699444	0	+	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1	MixedObserved	9	1000GENOMES,BCM-HGSC-SUB,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA-UK,PJP,	2	A,T,	1287.000000,3721.000000,	0.256989,0.743011,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7576275	7576276	rs376483068	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron	exact	1	MixedObserved	1	SSMP,	0				
+642	chr17	7576288	7576289	rs142074865	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	4998.000000,10.000000,	0.998003,0.001997,	
+642	chr17	7576343	7576344	rs576323612	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7576347	7576348	rs75732100	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		6	1000GENOMES,EVA-GONL,GMI,JMKIDD_LAB,SSMP,TISHKOFF,	2	C,T,	4599.000000,409.000000,	0.918331,0.081669,	
+642	chr17	7576348	7576349	rs567516831	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7576356	7576357	rs139290680	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	4987.000000,21.000000,	0.995807,0.004193,	
+642	chr17	7576374	7576375	rs563904209	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7576391	7576392	rs571468420	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7576421	7576422	rs1642791	0	-	G	G	C/T	genomic	single	by-frequency	0.3432	0.231978	intron	exact	1	NonIntegerChromCount	1	SC_JCM,	2	C,T,	143.520004,40.480000,	0.780000,0.220000,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7576422	7576423	rs1642790	0	-	A	A	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	2	C,T,	0.000000,184.000000,	0.000000,1.000000,	
+642	chr17	7576444	7576444	rs71928208	0	+	-	-	-/AA	genomic	insertion	unknown	0	0	intron	between	1		1	PJP,	0				
+642	chr17	7576461	7576462	rs559350878	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7576462	7576462	rs34308401	0	+	-	-	-/AA/AAA	genomic	insertion	by-cluster	0	0	intron	between	1	SingleAlleleFreq	3	ABI,HGSV,HUMANGENOME_JCVI,	1	AAA,	2.000000,	1.000000,	
+642	chr17	7576500	7576501	rs77697176	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		4	1000GENOMES,EVA-GONL,JMKIDD_LAB,NHLBI-ESP,	2	A,G,	78.000000,4930.000000,	0.015575,0.984425,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7576539	7576540	rs372821099	0	+	C	C	C/T	genomic	single	unknown	0	0	coding-synon,intron,ncRNA,untranslated-3	exact	1		2	1000GENOMES,NHLBI-ESP,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7576542	7576543	rs201293647	0	+	C	C	A/C/T	genomic	single	unknown	0	0	coding-synon,intron,ncRNA,untranslated-3	exact	1	SingleClassTriAllelic,InconsistentAlleles	2	1000GENOMES,NHLBI-ESP,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7576545	7576546	rs200274944	0	+	G	G	A/G	genomic	single	unknown	0	0	coding-synon,intron,ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7576562	7576563	rs1642789	0	-	A	A	A/T	genomic	single	unknown	0	0	intron,ncRNA,missense,untranslated-3	exact	1		1	SC_JCM,	0				
+642	chr17	7576568	7576569	rs554738122	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,ncRNA,nonsense,untranslated-3	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7576608	7576609	rs576532147	0	+	C	C	A/C	genomic	single	unknown	0	0	intron,ncRNA,untranslated-3	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7576618	7576619	rs17883348	0	-	C	C	A/G	genomic	single	by-cluster,by-frequency	0.005721	0.053176	intron,ncRNA,untranslated-3	exact	1	NonIntegerChromCount	2	CLINSEQ_SNP,EGP_SNPS,	2	A,G,	2.140000,743.859985,	0.002869,0.997131,	
+642	chr17	7576629	7576630	rs3021068	0	-	A	A	A/C/T	genomic	single	unknown	0	0	intron,ncRNA,missense	exact	1	SingleClassTriAllelic,InconsistentAlleles	3	1000GENOMES,SC_JCM,SSMP,	4	A,C,G,T,	5007.000000,1.000000,1.000000,5007.000000,	0.499900,0.000100,0.000100,0.499900,	
+642	chr17	7576695	7576699	rs367846814	0	+	AGTT	AGTT	-/AGTT	genomic	deletion	unknown	0	0	intron	range	1		1	SSMP,	0				
+642	chr17	7576707	7576708	rs559168760	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7576711	7576712	rs371592265	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		3	1000GENOMES,EVA-GONL,NHLBI-ESP,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7576795	7576796	rs567351657	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7576817	7576818	rs149983651	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7576833	7576834	rs370042486	0	+	A	A	A/T	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7576834	7576835	rs373464964	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7576839	7576840	rs369599972	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7576840	7576841	rs1800899	0	-	A	A	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	11	1000GENOMES,BUSHMAN,CLINSEQ_SNP,EVA-GONL,HGBASE,ILLUMINA,JMKIDD_LAB,NHLBI-ESP,PJP,SI_EXO,TISHKOFF,	4	A,C,G,T,	4927.000000,81.000000,81.000000,4927.000000,	0.491913,0.008087,0.008087,0.491913,	maf-5-some-pop
+642	chr17	7576851	7576852	rs11575997	0	-	C	C	G/T	genomic	single	unknown	0	0	splice-5	exact	1		1	HGBASE,	0				
+642	chr17	7576852	7576853	rs11575996	0	-	C	C	A/G	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1		1	HGBASE,	0				
+642	chr17	7576871	7576872	rs121912659	0	-	C	C	G/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7576910	7576911	rs145151284	0	+	G	G	C/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		3	1000GENOMES,EXOME_CHIP,NHLBI-ESP,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7576912	7576913	rs201601993	0	+	G	G	A/G	genomic	single	unknown	0.001998	0.031543	coding-synon,ncRNA	exact	1	NonIntegerChromCount	1	CLINSEQ_SNP,	2	A,G,	1.300000,1298.699951,	0.001000,0.999000,	
+642	chr17	7576913	7576914	rs56184981	0	+	T	T	C/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	CANCER-GENOME,	0				
+642	chr17	7576927	7576928	rs397516439	0	-	T	T	A/G	genomic	single	unknown	0	0	splice-3	exact	1		1	LMM-PCPGM,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7576930	7576931	rs34361146	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	2	1000GENOMES,SNP500CANCER,	4	A,C,G,T,	1.000000,5007.000000,5007.000000,1.000000,	0.000100,0.499900,0.499900,0.000100,	
+642	chr17	7576947	7576948	rs185172744	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7576960	7576961	rs540819675	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7576974	7576975	rs144496254	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7576995	7576996	rs376079415	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7576996	7576997	rs549731874	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577011	7577012	rs199527475	0	+	T	T	G/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	G,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577021	7577022	rs121913344	0	-	G	G	C/T	genomic	single	unknown	0	0	ncRNA,nonsense	exact	1		1	DF-BWCC,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7577034	7577035	rs72661120	0	-	T	T	A/G	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1	InconsistentAlleles	2	1000GENOMES,VISHNUPRIYA_LAB_O_U,	4	A,C,G,T,	5006.000000,2.000000,2.000000,5006.000000,	0.499800,0.000200,0.000200,0.499800,	
+642	chr17	7577045	7577046	rs201744589	0	+	C	C	C/G/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1	SingleClassTriAllelic,InconsistentAlleles	2	1000GENOMES,EGL,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	clinically-assoc,submitted-by-lsdb
+642	chr17	7577050	7577051	rs483352696	0	-	T	T	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	LIFTON_LAB_YALE_UNIV,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7577052	7577053	rs200073907	0	+	A	A	A/G	genomic	single	unknown	0.001998	0.031543	coding-synon,ncRNA	exact	1	NonIntegerChromCount	1	CLINSEQ_SNP,	2	A,G,	1322.680054,1.324000,	0.999000,0.001000,	
+642	chr17	7577062	7577063	rs121912663	0	-	T	T	A/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577064	7577065	rs372613518	0	+	C	C	C/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7577068	7577069	rs55819519	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		5	1000GENOMES,EXOME_CHIP,ILLUMINA,NHLBI-ESP,SI_EXO,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7577083	7577084	rs121912667	0	-	T	T	A/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		2	OMIM-CURATED-RECORDS,PJP,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577084	7577085	rs112431538	0	+	C	C	C/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		1	ILLUMINA,	0				
+642	chr17	7577089	7577090	rs371409680	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7577090	7577091	rs149633775	0	+	G	G	A/G	genomic	single	by-cluster,by-frequency	0.00088	0.020952	ncRNA,missense	exact	1		2	EXOME_CHIP,NHLBI-ESP,	2	A,G,	2.000000,4544.000000,	0.000440,0.999560,	
+642	chr17	7577093	7577094	rs28934574	0	-	G	G	C/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		4	NHLBI-ESP,OMICIA,OMIM-CURATED-RECORDS,PJP,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577098	7577099	rs121912660	0	-	C	C	C/G/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1	SingleClassTriAllelic	2	GRONBERG_MEB,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577105	7577106	rs17849781	0	+	G	G	C/G	cDNA	single	unknown	0	0	ncRNA,missense	exact	1	SingleAlleleFreq	1	MGC_GENOME_DIFF,	1	G,	4.000000,	1.000000,	
+642	chr17	7577119	7577120	rs28934576	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1	InconsistentAlleles	4	1000GENOMES,DF-BWCC,OMICIA,OMIM-CURATED-RECORDS,	4	A,C,G,T,	1.000000,5007.000000,5007.000000,1.000000,	0.000100,0.499900,0.499900,0.000100,	clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577120	7577121	rs121913343	0	-	G	G	C/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		3	DF-BWCC,GRONBERG_MEB,PJP,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7577123	7577124	rs121912657	0	-	C	C	G/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577138	7577139	rs55832599	0	+	G	G	A/G	cDNA	single	unknown	0	0	ncRNA,missense	exact	1		1	CGM_KYOTO,	0				
+642	chr17	7577140	7577141	rs193920774	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	GRONBERG_MEB,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7577150	7577151	rs72661119	0	-	T	T	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1	InconsistentAlleles	2	1000GENOMES,VISHNUPRIYA_LAB_O_U,	4	A,C,G,T,	5007.000000,1.000000,1.000000,5007.000000,	0.499900,0.000100,0.000100,0.499900,	
+642	chr17	7577153	7577154	rs200579969	0	+	C	C	C/T	genomic	single	unknown	0.001998	0.031544	ncRNA,missense	exact	1		1	CLINSEQ_SNP,	2	C,T,	991.007996,0.992000,	0.999000,0.001000,	
+642	chr17	7577164	7577165	rs377590379	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7577187	7577188	rs113302588	0	+	A	A	A/G	genomic	single	by-cluster	0.5	0	intron	exact	1		2	BUSHMAN,NHLBI-ESP,	2	A,G,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7577188	7577189	rs376988747	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7577230	7577231	rs189582361	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7577246	7577247	rs546697065	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7577286	7577287	rs55950612	0	+	T	T	-/T	cDNA	deletion	unknown	0	0	intron	exact	1		1	CGM_KYOTO,	0				
+642	chr17	7577291	7577291	rs56196266	0	+	-	-	-/G	cDNA	insertion	unknown	0	0	intron	between	1		1	CGM_KYOTO,	0				
+642	chr17	7577312	7577313	rs11653656	0	+	G	G	A/G	genomic	single	by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	1	CSHL-HAPMAP,	1	G,	418.000000,	1.000000,	
+642	chr17	7577335	7577336	rs1794288	0	-	A	A	C/T	genomic	single	by-cluster,by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	3	CGM_KYOTO,SC_JCM,SNP500CANCER,	1	T,	770.000000,	1.000000,	
+642	chr17	7577363	7577364	rs55657472	0	+	C	C	-/C	cDNA	deletion	unknown	0	0	intron	exact	1		1	CGM_KYOTO,	0				
+642	chr17	7577366	7577367	rs537620673	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7577368	7577369	rs558911172	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7577369	7577370	rs577460025	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7577372	7577374	rs1642787	0	-	GG	GG	C/T	genomic	single	by-cluster,by-hapmap	0	0	intron	rangeDeletion	1	FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch,SingleAlleleFreq	3	CGM_KYOTO,SC_JCM,SNP500CANCER,	1	C,	1280.000000,	1.000000,	observed-mismatch
+642	chr17	7577373	7577374	rs541795033	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577406	7577407	rs12951053	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		23	1000GENOMES,ABI,AFFY,BCM-HGSC-SUB,BUSHMAN,CGM_KYOTO,COMPLETE_GENOMICS,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA,ILLUMINA-UK,JMKIDD_LAB,KRIBB_YJKIM,PERLEGEN,PJP,SNP500CANCER,SSAHASNP,SSMP,TISHKOFF,	2	A,C,	4115.000000,893.000000,	0.821685,0.178315,	maf-5-some-pop
+642	chr17	7577426	7577427	rs12947788	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		17	1000GENOMES,ABI,BCM-HGSC-SUB,BUSHMAN,CGM_KYOTO,COMPLETE_GENOMICS,EGP_SNPS,ENSEMBL,EVA-GONL,HGSV,HUMANGENOME_JCVI,ILLUMINA-UK,JMKIDD_LAB,PJP,SNP500CANCER,SSAHASNP,SSMP,	2	A,G,	893.000000,4115.000000,	0.178315,0.821685,	maf-5-some-pop
+642	chr17	7577439	7577440	rs1642786	0	-	A	A	G/T	genomic	single	by-cluster,by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	3	CGM_KYOTO,SC_JCM,SNP500CANCER,	1	T,	828.000000,	1.000000,	
+642	chr17	7577466	7577467	rs368188803	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,NHLBI-ESP,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577477	7577478	rs201930255	0	+	G	G	C/G/T	genomic	single	unknown	0	0	intron	exact	1	SingleClassTriAllelic,InconsistentAlleles	2	1000GENOMES,NHLBI-ESP,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577481	7577482	rs17880172	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	3	1000GENOMES,EGP_SNPS,NHLBI-ESP,	4	A,C,G,T,	7.000000,5001.000000,5001.000000,7.000000,	0.000699,0.499301,0.499301,0.000699,	
+642	chr17	7577486	7577487	rs17881780	0	-	G	G	C/T	genomic	single	by-cluster	0.011299	0.074309	intron	exact	1		2	EGP_SNPS,NHLBI-ESP,	2	C,T,	175.000000,1.000000,	0.994318,0.005682,	
+642	chr17	7577488	7577489	rs200277687	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577508	7577509	rs121912652	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577510	7577511	rs28934577	0	-	A	A	A/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		2	OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577525	7577526	rs121912653	0	-	A	A	C/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577533	7577534	rs28934571	0	-	C	C	G/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		2	OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577537	7577538	rs11540652	0	-	C	C	A/G	genomic	single	by-cluster,by-hapmap	0	0	ncRNA,missense	exact	1		5	CGAP-GAI,DF-BWCC,NHLBI-ESP,OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577538	7577539	rs121912651	0	-	G	G	C/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		2	DF-BWCC,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577539	7577563	rs397516437	0	-	GTTCATGCCGCCCATGCAGGAACT	GTTCATGCCGCCCATGCAGGAACT	-/AGTTCCTGCATGGGCGGCATGAAC	genomic	deletion	unknown	0	0	cds-indel	range	1		1	LMM-PCPGM,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7577544	7577545	rs483352695	0	-	T	T	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	LIFTON_LAB_YALE_UNIV,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7577546	7577547	rs121912656	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577547	7577548	rs28934575	0	-	C	C	A/C/G/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1	SingleClassQuadAllelic	4	DF-BWCC,NHLBI-ESP,OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577554	7577555	rs375874539	0	+	G	G	A/G	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7577555	7577556	rs121912655	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577558	7577559	rs28934573	0	-	G	G	C/T	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		2	OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577566	7577567	rs193920789	0	-	A	A	G/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	GRONBERG_MEB,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7577576	7577577	rs144340710	0	+	T	T	C/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		3	EVA-GONL,EXOME_CHIP,NHLBI-ESP,	2	C,T,	1.000000,4549.000000,	0.000220,0.999780,	
+642	chr17	7577626	7577627	rs564974117	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7577643	7577644	rs17880604	0	-	C	C	A/C/G	genomic	single	unknown	0	0	intron	exact	1	SingleClassTriAllelic,InconsistentAlleles	8	1000GENOMES,CGM_KYOTO,CNGFU,EGP_SNPS,EVA-GONL,NHLBI-ESP,SNP500CANCER,TB_SS,	2	C,G,	5008.000000,5008.000000,	0.500000,0.500000,	clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7577644	7577645	rs374907737	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,NHLBI-ESP,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577658	7577659	rs559230724	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577666	7577667	rs530001801	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577670	7577671	rs548313034	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7577671	7577672	rs570110128	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577707	7577708	rs183276131	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	20.000000,4988.000000,	0.003994,0.996006,	
+642	chr17	7577708	7577709	rs143536546	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	C,T,	4995.000000,13.000000,	0.997404,0.002596,	
+642	chr17	7577714	7577715	rs570913045	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7577737	7577738	rs111232744	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	BCM-HGSC-SUB,	0				
+642	chr17	7577764	7577765	rs535242956	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5002.000000,6.000000,	0.998802,0.001198,	
+642	chr17	7577776	7577777	rs187553272	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSMP,	2	C,T,	5001.000000,7.000000,	0.998602,0.001398,	
+642	chr17	7577843	7577843	rs539331761	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1		1	1000GENOMES,	2	-,T,	4960.000000,48.000000,	0.990415,0.009585,	
+642	chr17	7577869	7577870	rs575233690	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7577898	7577899	rs113121881	0	+	C	C	C/T	genomic	single	unknown	0.5	0	intron	exact	1		1	BUSHMAN,	2	C,T,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7577918	7577919	rs574647670	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7577956	7577957	rs8069054	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		6	1000GENOMES,COMPLETE_GENOMICS,EGP_SNPS,JMKIDD_LAB,TISHKOFF,WI_SSAHASNP,	2	A,C,	272.000000,4736.000000,	0.054313,0.945687,	
+642	chr17	7577969	7577970	rs554302315	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7577982	7577983	rs535243254	0	+	G	G	-/G	genomic	deletion	unknown	0	0	intron	exact	1		3	1000GENOMES,EVA-GONL,SSIP,	2	-,G,	9.000000,4999.000000,	0.001797,0.998203,	
+642	chr17	7577989	7577990	rs542104985	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7578000	7578001	rs35177338	0	+	T	T	-/T	genomic	deletion	by-cluster	0	0	intron	exact	1		2	ABI,CGM_KYOTO,	0				
+642	chr17	7578057	7578058	rs576078273	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7578071	7578072	rs543198710	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	4.000000,5004.000000,	0.000799,0.999201,	
+642	chr17	7578114	7578115	rs1625895	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	28	1000GENOMES,ABI,BCM-HGSC-SUB,BCMHGSC_JDW,BGI,BL,BUSHMAN,CGM_KYOTO,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA,ILLUMINA-UK,JMKIDD_LAB,KRIBB_YJKIM,PERLEGEN,PJP,SC_JCM,SNP500CANCER,SSAHASNP,SSMP,TISHKOFF,WI_SSAHASNP,	4	A,C,G,T,	833.000000,4175.000000,4175.000000,833.000000,	0.083167,0.416833,0.416833,0.083167,	maf-5-some-pop,microattr-tpa,genotype-conflict
+642	chr17	7578115	7578116	rs576587852	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7578128	7578129	rs17884607	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	3	1000GENOMES,EGP_SNPS,SSMP,	4	A,C,G,T,	17.000000,4991.000000,4991.000000,17.000000,	0.001697,0.498303,0.498303,0.001697,	
+642	chr17	7578145	7578146	rs34949160	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	4	1000GENOMES,EVA-GONL,NHLBI-ESP,SNP500CANCER,	4	A,C,G,T,	4983.000000,25.000000,25.000000,4983.000000,	0.497504,0.002496,0.002496,0.497504,	
+642	chr17	7578146	7578147	rs200372146	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7578158	7578159	rs199578278	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSMP,	2	C,G,	5001.000000,7.000000,	0.998602,0.001398,	
+642	chr17	7578161	7578162	rs140756213	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,NHLBI-ESP,	2	A,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7578176	7578177	rs267605076	0	+	C	C	C/T	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1		1	YSAMUELS,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578180	7578181	rs138983188	0	+	G	G	G/T	genomic	single	unknown	0.00044	0.01483	ncRNA,missense	exact	1		1	NHLBI-ESP,	2	G,T,	4541.000000,1.000000,	0.999780,0.000220,	
+642	chr17	7578182	7578183	rs72661118	0	-	C	C	A/C/G	genomic	single	by-cluster,by-1000genomes	0.000918	0.0214	coding-synon,ncRNA	exact	1	SingleClassTriAllelic,InconsistentAlleles	3	1000GENOMES,NHLBI-ESP,VISHNUPRIYA_LAB_O_U,	2	G,T,	4543.000000,1.000000,	0.999780,0.000220,	
+642	chr17	7578183	7578184	rs146340390	0	+	G	G	A/G	genomic	single	unknown	0.00044	0.014827	ncRNA,missense	exact	1		1	NHLBI-ESP,	2	A,G,	1.000000,4543.000000,	0.000220,0.999780,	
+642	chr17	7578189	7578190	rs121912666	0	-	T	T	A/C	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578190	7578191	rs530941076	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7578199	7578200	rs35163653	0	-	C	C	A/G	genomic	single	by-frequency	0.009705	0.06898	ncRNA,missense	exact	1		1	SNP500CANCER,	2	A,G,	2.009000,409.990997,	0.004876,0.995124,	
+642	chr17	7578200	7578201	rs199693249	0	+	C	C	C/G	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1		2	1000GENOMES,NHLBI-ESP,	2	C,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7578209	7578210	rs1800372	0	-	T	T	A/C/G/T	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1	SingleClassQuadAllelic	13	1000GENOMES,APPLERA_GI,BUSHMAN,CANCER-GENOME,CGM_KYOTO,CLINSEQ_SNP,EGP_SNPS,EVA-GONL,HGBASE,ILLUMINA,JMKIDD_LAB,NHLBI-ESP,SNP500CANCER,	4	A,C,G,T,	4981.000000,27.000000,27.000000,4981.000000,	0.497304,0.002696,0.002696,0.497304,	
+642	chr17	7578211	7578212	rs397516436	0	-	G	G	C/T	genomic	single	unknown	0	0	ncRNA,nonsense	exact	1		1	LMM-PCPGM,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578230	7578231	rs142813240	0	+	C	C	C/T	genomic	single	unknown	0.000439	0.014817	coding-synon,ncRNA	exact	1		1	NHLBI-ESP,	2	C,T,	4549.000000,1.000000,	0.999780,0.000220,	
+642	chr17	7578261	7578262	rs483352697	0	-	C	C	G/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	LIFTON_LAB_YALE_UNIV,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578262	7578263	rs397516435	0	-	G	G	C/T	genomic	single	unknown	0	0	ncRNA,nonsense	exact	1		1	LMM-PCPGM,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578266	7578267	rs370216745	0	+	A	A	A/G	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7578281	7578282	rs55764374	0	+	G	G	G/T	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1		1	CANCER-GENOME,	0				
+642	chr17	7578282	7578283	rs121912665	0	-	G	G	C/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578296	7578297	rs373797299	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,NHLBI-ESP,	2	C,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7578301	7578302	rs76962868	0	+	A	A	A/C	genomic	single	unknown	0.5	0	intron	exact	1		1	ENSEMBL,	2	A,C,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7578328	7578329	rs377059569	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7578329	7578330	rs371082405	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7578346	7578347	rs56181208	0	+	G	G	A/G	cDNA	single	by-cluster	0	0	intron	exact	1		2	CGM_KYOTO,NHLBI-ESP,	0				
+642	chr17	7578350	7578351	rs547244762	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7578357	7578358	rs56226808	0	+	C	C	C/T	cDNA	single	unknown	0	0	intron	exact	1		1	CGM_KYOTO,	0				
+642	chr17	7578359	7578360	rs75343564	0	+	C	C	C/T	genomic	single	unknown	0.5	0	intron	exact	1		1	ENSEMBL,	2	C,T,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7578364	7578365	rs370546196	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7578367	7578368	rs150098764	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7578371	7578372	rs375275361	0	+	A	A	A/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7578374	7578375	rs367560109	0	+	G	G	A/G	genomic	single	unknown	0	0	coding-synon,ncRNA	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7578375	7578376	rs150607408	0	+	C	C	C/T	genomic	single	unknown	0.00044	0.01482	ncRNA,missense	exact	1		1	NHLBI-ESP,	2	C,T,	4547.000000,1.000000,	0.999780,0.000220,	
+642	chr17	7578379	7578380	rs72661117	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	VISHNUPRIYA_LAB_O_U,	0				
+642	chr17	7578387	7578388	rs397514495	0	-	C	C	G/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578400	7578401	rs147002414	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	PJP,	0				
+642	chr17	7578405	7578406	rs28934578	0	-	C	C	A/G	genomic	single	by-cluster	0	0	ncRNA,missense	exact	1		4	DF-BWCC,MPIMG-CANCERGENOMICS,OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578406	7578407	rs138729528	0	+	G	G	A/C/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1	SingleClassTriAllelic,InconsistentAlleles	2	1000GENOMES,PJP,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7578441	7578442	rs148924904	0	+	T	T	C/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	PJP,	0				
+642	chr17	7578448	7578449	rs193920817	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	GRONBERG_MEB,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578451	7578452	rs377274728	0	+	T	T	A/T	genomic	single	unknown	0	0	ncRNA,missense	exact	1		1	BILGI_BIOE,	0				
+642	chr17	7578455	7578456	rs139200646	0	+	G	G	A/G	genomic	single	unknown	0	0	coding-synon,ncRNA,untranslated-5	exact	1		2	1000GENOMES,NHLBI-ESP,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7578460	7578461	rs121912654	0	-	C	C	G/T	genomic	single	unknown	0	0	ncRNA,missense,untranslated-5	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578462	7578463	rs371524413	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA,missense,untranslated-5	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7578463	7578464	rs563378859	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-5	exact	1		1	SSIP,	0				
+642	chr17	7578467	7578468	rs137852793	0	-	G	G	C/T	genomic	single	unknown	0	0	coding-synon,ncRNA,untranslated-5	exact	1		1	LTG,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578469	7578470	rs137852789	0	-	C	C	A/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-5	exact	1		1	LTG,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578470	7578471	rs72661116	0	-	G	G	C/T	genomic	single	unknown	0	0	coding-synon,ncRNA,untranslated-5	exact	1	MixedObserved,InconsistentAlleles	2	1000GENOMES,VISHNUPRIYA_LAB_O_U,	4	A,C,G,T,	1.000000,5007.000000,5007.000000,1.000000,	0.000100,0.499900,0.499900,0.000100,	
+642	chr17	7578470	7578482	rs137852790	0	-	GGGCGGGGGTGT	GGGCGGGGGTGT	-/ACACCCCCGCCC	genomic	deletion	unknown	0	0	cds-indel	range	1	MixedObserved	1	LTG,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578470	7578480	rs137852791	0	-	GGGCGGGGGT	GGGCGGGGGT	-/ACCCCCGCCC	genomic	deletion	unknown	0	0	ncRNA,frameshift,untranslated-5	range	1	MixedObserved	1	LTG,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578478	7578479	rs28934874	0	-	G	G	A/C/G/T	genomic	single	by-cluster	0	0	ncRNA,missense,untranslated-5	exact	1	SingleClassQuadAllelic	2	OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578516	7578517	rs137852794	0	-	G	G	-/C	genomic	deletion	unknown	0	0	ncRNA,frameshift,untranslated-5	exact	1		1	LTG,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578517	7578518	rs28934875	0	-	C	C	C/G	genomic	single	by-cluster	0	0	ncRNA,missense,untranslated-5	exact	1		2	OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578529	7578530	rs267605077	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA,missense,untranslated-5	exact	1		1	YSAMUELS,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7578531	7578532	rs28934873	0	-	A	A	C/T	genomic	single	by-cluster	0	0	ncRNA,missense,untranslated-5	exact	1		2	OMICIA,OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578543	7578544	rs137852792	0	-	G	G	C/T	genomic	single	unknown	0	0	ncRNA,missense,untranslated-5	exact	1		1	LTG,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7578570	7578571	rs376713749	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7578588	7578589	rs576912263	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		1	EVA-GONL,	0				
+642	chr17	7578620	7578621	rs2856920	0	-	G	G	C/G	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		1	SC_JCM,	0				
+642	chr17	7578622	7578623	rs537058017	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7578639	7578640	rs113530090	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		5	1000GENOMES,BUSHMAN,EVA-GONL,ILLUMINA,TISHKOFF,	2	A,G,	4972.000000,36.000000,	0.992812,0.007188,	
+642	chr17	7578644	7578645	rs2909430	0	-	C	C	A/G	genomic	single	unknown	0	0	intron,untranslated-5	exact	1	InconsistentAlleles	28	1000GENOMES,ABI,AFFY,BCM-HGSC-SUB,BCMHGSC_JDW,BCM_SSAHASNP,BGI,BL,BUSHMAN,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HUMANGENOME_JCVI,ILLUMINA,ILLUMINA-UK,JMKIDD_LAB,KRIBB_YJKIM,PJP,SC_JCM,SI_EXO,SNP500CANCER,SSAHASNP,SSMP,TISHKOFF,WI_SSAHASNP,	4	A,C,G,T,	4221.000000,787.000000,787.000000,4221.000000,	0.421426,0.078574,0.078574,0.421426,	maf-5-some-pop,genotype-conflict
+642	chr17	7578654	7578655	rs145153611	0	+	T	T	A/T	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		2	1000GENOMES,EVA-GONL,	2	A,T,	9.000000,4999.000000,	0.001797,0.998203,	
+642	chr17	7578670	7578671	rs35850753	0	-	C	C	A/G	genomic	single	unknown	0	0	intron,untranslated-5	exact	1	InconsistentAlleles	6	1000GENOMES,BUSHMAN,EVA-GONL,ILLUMINA,JMKIDD_LAB,SNP500CANCER,	4	A,C,G,T,	28.000000,4980.000000,4980.000000,28.000000,	0.002796,0.497204,0.497204,0.002796,	
+642	chr17	7578678	7578679	rs9895829	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		11	1000GENOMES,AFFY,BCM_SSAHASNP,EGP_SNPS,EVA-GONL,GMI,JMKIDD_LAB,KRIBB_YJKIM,SNP500CANCER,SSMP,TISHKOFF,	2	A,G,	4602.000000,406.000000,	0.918930,0.081070,	maf-5-some-pop
+642	chr17	7578707	7578708	rs77624624	0	+	T	T	C/T	genomic	single	unknown	0.5	0	intron,untranslated-5	exact	1		1	ENSEMBL,	2	C,T,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7578708	7578711	rs376546152	0	+	TTC	TTC	-/TTC	genomic	deletion	unknown	0	0	intron,untranslated-5	range	1		1	WARNICH_LAB,	0				
+642	chr17	7578711	7578714	rs141204613	0	+	TTT	TTT	-/TTT	genomic	deletion	unknown	0	0	intron,untranslated-5	range	1		4	BUSHMAN,GMI,PJP,SSMP,	2	-,TTT,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7578714	7578715	rs75821853	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		4	1000GENOMES,BUSHMAN,ENSEMBL,TISHKOFF,	2	C,T,	39.000000,4969.000000,	0.007788,0.992212,	
+642	chr17	7578724	7578725	rs75785681	0	+	T	T	G/T	genomic	single	unknown	0	0	intron,untranslated-5	exact	1	SingleAlleleFreq	1	ENSEMBL,	1	G,	2.000000,	1.000000,	
+642	chr17	7578726	7578729	rs5819162	0	+	TTT	TTT	-/TTT	genomic	deletion	unknown	0	0	intron,untranslated-5	range	1	SingleAlleleFreq	2	ABI,HUMANGENOME_JCVI,	1	-,	2.000000,	1.000000,	
+642	chr17	7578743	7578745	rs17880765	0	-	CT	CT	-/AG	genomic	deletion	unknown	0	0	intron,untranslated-5	range	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	3	-,AG,CT,	14.000000,5001.000000,5001.000000,	0.001398,0.499301,0.499301,	
+642	chr17	7578771	7578772	rs563612371	0	+	T	T	G/T	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		1	1000GENOMES,	2	G,T,	8.000000,5000.000000,	0.001597,0.998403,	
+642	chr17	7578792	7578793	rs530780060	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,untranslated-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7578821	7578822	rs142163094	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5002.000000,6.000000,	0.998802,0.001198,	
+642	chr17	7578836	7578837	rs1794287	0	-	A	A	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	20	1000GENOMES,ABI,BCM-HGSC-SUB,BCMHGSC_JDW,BCM_SSAHASNP,BL,BUSHMAN,COMPLETE_GENOMICS,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HUMANGENOME_JCVI,JMKIDD_LAB,PJP,SC_JCM,SC_SNP,SSAHASNP,SSMP,TISHKOFF,	4	A,C,G,T,	753.000000,4255.000000,4255.000000,753.000000,	0.075180,0.424820,0.424820,0.075180,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7578873	7578874	rs528631947	0	+	G	G	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	G,T,	5008.000000,0.000000,	1.000000,0.000000,	
+642	chr17	7578887	7578887	rs564450092	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	1000GENOMES,	2	-,T,	5005.000000,3.000000,	0.999401,0.000599,	
+642	chr17	7578944	7578944	rs36105262	0	+	-	-	-/G	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	ABI,	0				
+642	chr17	7578956	7578957	rs188568887	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7579007	7579008	rs148535768	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	18.000000,4990.000000,	0.003594,0.996406,	
+642	chr17	7579080	7579081	rs192748321	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	5001.000000,7.000000,	0.998602,0.001398,	
+642	chr17	7579125	7579126	rs141892471	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579210	7579211	rs1794286	0	-	A	A	A/T	genomic	single	by-cluster	0	0	intron,near-gene-5	exact	1		3	ABI,CGM_KYOTO,SC_JCM,	2	A,T,	0.000000,184.000000,	0.000000,1.000000,	
+642	chr17	7579270	7579271	rs530718177	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,SSIP,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579311	7579312	rs55863639	0	+	C	C	A/C	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA	exact	1		1	CANCER-GENOME,	0				
+642	chr17	7579328	7579329	rs121912658	0	-	T	T	A/T	genomic	single	unknown	0	0	near-gene-5,ncRNA,nonsense	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7579357	7579358	rs11540654	0	-	C	C	A/G	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense	exact	1	InconsistentAlleles	3	1000GENOMES,CGAP-GAI,SNP500CANCER,	4	A,C,G,T,	3.000000,5005.000000,5005.000000,3.000000,	0.000300,0.499700,0.499700,0.000300,	
+642	chr17	7579367	7579368	rs368771578	0	+	A	A	A/G	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense	exact	1		2	1000GENOMES,NHLBI-ESP,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579434	7579435	rs549892645	0	+	G	G	A/G	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA	exact	1		1	SSIP,	0				
+642	chr17	7579437	7579438	rs55754907	0	+	C	C	C/T	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA	exact	1		1	CANCER-GENOME,	0				
+642	chr17	7579438	7579439	rs201717599	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7579440	7579441	rs372397095	0	+	C	C	C/T	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579441	7579442	rs534447939	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7579452	7579453	rs375099397	0	+	T	T	C/T	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA,splice-3	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579470	7579471	rs56275308	0	+	G	G	A/C/G	genomic	single	unknown	0	0	coding-synon,intron,near-gene-5,ncRNA	exact	1	SingleClassTriAllelic,InconsistentAlleles	3	1000GENOMES,CANCER-GENOME,NHLBI-ESP,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7579471	7579472	rs1042522	0	-	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5,ncRNA,missense	exact	1		39	1000GENOMES,ABI,BCM-HGSC-SUB,BCMHGSC_JDW,BL,CANCER-GENOME,CGAP-GAI,CGM_KYOTO,CLINSEQ_SNP,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,EXOME_CHIP,GMI,HGBASE,HGSV,HUMANGENOME_JCVI,ILLUMINA,JMKIDD_LAB,KFSHRC_RADBIO,LEE,MGC_GENOME_DIFF,NHLBI-ESP,OMICIA,OMIM-CURATED-RECORDS,PHARMGKB_CREATE,PJP,SC_JCM,SC_SNP,SEATTLESEQ,SI_EXO,SNP500CANCER,SSAHASNP,SSMP,TISHKOFF,WICVAR,WI_SSAHASNP,	2	C,G,	5008.000000,5008.000000,	0.500000,0.500000,	clinically-assoc,maf-5-some-pop,maf-5-all-pops,has-omim-omia,submitted-by-lsdb,genotype-conflict
+642	chr17	7579498	7579499	rs372201428	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5,ncRNA,missense	exact	1		1	SSMP,	0				
+642	chr17	7579513	7579514	rs144386518	0	+	G	G	C/G	genomic	single	unknown	0.000457	0.015112	near-gene-5,ncRNA,missense	exact	1		1	NHLBI-ESP,	2	C,G,	1.000000,4373.000000,	0.000229,0.999771,	
+642	chr17	7579518	7579519	rs574255227	0	+	T	T	C/T	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA	exact	1		1	1000GENOMES,	2	C,T,	4.000000,5004.000000,	0.000799,0.999201,	
+642	chr17	7579537	7579538	rs370502517	0	+	A	A	A/G	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579545	7579546	rs201741778	0	+	C	C	C/T	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579547	7579548	rs1800371	0	-	G	G	C/T	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense	exact	1	InconsistentAlleles	9	1000GENOMES,EGP_SNPS,EXOME_CHIP,HGBASE,ILLUMINA,JMKIDD_LAB,NHLBI-ESP,PERLEGEN,SEATTLESEQ,	4	A,C,G,T,	28.000000,4980.000000,4980.000000,28.000000,	0.002796,0.497204,0.497204,0.002796,	maf-5-some-pop,genotype-conflict
+642	chr17	7579563	7579564	rs369129220	0	+	A	A	A/G	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579578	7579579	rs1800370	0	-	C	C	A/G	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA,untranslated-5	exact	1	InconsistentAlleles	12	1000GENOMES,BUSHMAN,CANCER-GENOME,CGAP-GAI,CLINSEQ_SNP,EGP_SNPS,EVA-GONL,HGBASE,ILLUMINA,JMKIDD_LAB,NHLBI-ESP,TISHKOFF,	4	A,C,G,T,	38.000000,4970.000000,4970.000000,38.000000,	0.003794,0.496206,0.496206,0.003794,	
+642	chr17	7579581	7579582	rs121912661	0	-	C	C	G/T	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense,untranslated-5	exact	1		1	OMIM-CURATED-RECORDS,	0				clinically-assoc,has-omim-omia,submitted-by-lsdb
+642	chr17	7579584	7579585	rs11575998	0	-	G	G	A/C	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA,untranslated-5	exact	1		1	HGBASE,	0				
+642	chr17	7579595	7579596	rs35117667	0	-	G	G	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	4	1000GENOMES,ILLUMINA,NHLBI-ESP,SNP500CANCER,	4	A,C,G,T,	38.000000,4970.000000,4970.000000,38.000000,	0.003794,0.496206,0.496206,0.003794,	
+642	chr17	7579598	7579599	rs202217267	0	+	G	G	A/G	genomic	single	by-cluster	0.001998	0.031543	intron,near-gene-5	exact	1	NonIntegerChromCount	2	CLINSEQ_SNP,NHLBI-ESP,	2	A,G,	1.324000,1322.680054,	0.001000,0.999000,	
+642	chr17	7579606	7579607	rs374547451	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579617	7579618	rs200989844	0	+	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579618	7579619	rs17883323	0	-	G	G	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	13	1000GENOMES,CGM_KYOTO,CLINSEQ_SNP,CNGFU,EGP_SNPS,EVA-GONL,GMI,ILLUMINA,JMKIDD_LAB,NHLBI-ESP,SNP500CANCER,SSMP,TISHKOFF,	4	A,C,G,T,	389.000000,4619.000000,4619.000000,389.000000,	0.038838,0.461162,0.461162,0.038838,	maf-5-some-pop
+642	chr17	7579635	7579636	rs138445402	0	-	C	C	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	TKS,	0				
+642	chr17	7579641	7579642	rs540683791	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	4998.000000,10.000000,	0.998003,0.001997,	
+642	chr17	7579643	7579659	rs146534833	0	+	CCCCAGCCCTCCAGGT	CCCCAGCCCTCCAGGT	-/CCCCAGCCCTCCAGGT	genomic	deletion	unknown	0	0	near-gene-5	range	1		4	1000GENOMES,EVA-GONL,GMI,LUNTER,	2	-,CCCCAGCCCTCCAGGT,	2937.000000,2071.000000,	0.586462,0.413538,	
+642	chr17	7579654	7579670	rs150200764	0	+	CAGGTCCCCAGCCCTC	CAGGTCCCCAGCCCTC	-/CAGGTCCCCAGCCCTC	genomic	deletion	unknown	0	0	intron,near-gene-5	range	1		1	PJP,	0				
+642	chr17	7579657	7579658	rs138066738	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	BL,	0				
+642	chr17	7579658	7579659	rs139100308	0	+	T	T	C/G/T	genomic	single	by-cluster	0	0	intron,near-gene-5	exact	1	SingleClassTriAllelic	3	BL,SSMP,TKS,	0				
+642	chr17	7579668	7579684	rs59758982	0	+	TCCAGGTCCCCAGCCC	TCCAGGTCCCCAGCCC	-/TCCAGGTCCCCAGCCC	genomic	deletion	unknown	0	0	intron,near-gene-5	range	1	SingleAlleleFreq	3	BCMHGSC_JDW,HGSV,HUMANGENOME_JCVI,	1	-,	2.000000,	1.000000,	
+642	chr17	7579684	7579685	rs200053580	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579704	7579705	rs201753350	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense,untranslated-5	exact	1		2	1000GENOMES,EXOME_CHIP,	2	C,T,	4999.000000,9.000000,	0.998203,0.001797,	
+642	chr17	7579705	7579706	rs370992294	0	+	G	G	A/G	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA,untranslated-5	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579715	7579719	rs397516438	0	-	GGAA	GGAA	AAGAACGT/TTCC	genomic	in-del	unknown	0	0	near-gene-5,ncRNA,frameshift,untranslated-5	rangeInsertion	1	FlankMismatchGenomeLonger	1	LMM-PCPGM,	0				clinically-assoc,submitted-by-lsdb
+642	chr17	7579750	7579751	rs368444215	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579753	7579754	rs2307496	0	-	G	G	-/C	genomic	deletion	by-cluster,by-frequency	0.0202	0.098448	intron,near-gene-5,untranslated-5	exact	1	InconsistentAlleles	4	ABI,CGM_KYOTO,SNP500CANCER,VOS,	2	+,C,	388.000000,4.000000,	0.989796,0.010204,	
+642	chr17	7579760	7579761	rs372756865	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		2	1000GENOMES,NHLBI-ESP,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579761	7579762	rs569425726	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7579793	7579794	rs533712546	0	+	T	T	A/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	1000GENOMES,	2	A,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7579794	7579795	rs377074538	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579800	7579801	rs1642785	0	-	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		23	1000GENOMES,ABI,BCM-HGSC-SUB,BCMHGSC_JDW,BCM_SSAHASNP,CGM_KYOTO,CLINSEQ_SNP,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA,JMKIDD_LAB,NHLBI-ESP,PJP,SC_JCM,SNP500CANCER,TISHKOFF,WI_SSAHASNP,	2	C,G,	5008.000000,5008.000000,	0.500000,0.500000,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7579811	7579812	rs2307495	0	-	G	G	-/C	genomic	deletion	by-cluster	0	0	intron,near-gene-5,untranslated-5	exact	1	SingleAlleleFreq	4	ABI,CGM_KYOTO,SNP500CANCER,VOS,	1	+,	388.000000,	1.000000,	
+642	chr17	7579824	7579825	rs184743157	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579849	7579850	rs1800369	0	-	G	G	C/T	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA,untranslated-5	exact	1	InconsistentAlleles	4	1000GENOMES,CLINSEQ_SNP,HGBASE,SNP500CANCER,	4	A,C,G,T,	6.000000,5002.000000,5002.000000,6.000000,	0.000599,0.499401,0.499401,0.000599,	
+642	chr17	7579881	7579882	rs201382018	0	+	C	C	C/G	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense,untranslated-5	exact	1		2	1000GENOMES,CLINSEQ_CLINVAR,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	clinically-assoc,submitted-by-lsdb
+642	chr17	7579882	7579883	rs568171603	0	+	G	G	A/G	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA,untranslated-5	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7579884	7579885	rs535274413	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5,ncRNA,missense,untranslated-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7579894	7579895	rs573130482	0	+	T	T	G/T	genomic	single	unknown	0	0	coding-synon,near-gene-5,ncRNA,untranslated-5	exact	1		1	EVA-GONL,	0				
+642	chr17	7579906	7579907	rs143458271	0	+	C	C	C/T	genomic	single	by-cluster,by-frequency	0.000787	0.019817	coding-synon,near-gene-5,ncRNA,untranslated-5	exact	1	NonIntegerChromCount	2	CLINSEQ_SNP,NHLBI-ESP,	2	C,T,	5837.700195,2.298000,	0.999606,0.000393,	
+642	chr17	7579923	7579924	rs375229869	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5,ncRNA,untranslated-5	exact	1		1	NHLBI-ESP,	0				
+642	chr17	7579974	7579975	rs2543548	0	-	A	A	C/T	genomic	single	by-hapmap	0	0	intron,near-gene-5	exact	1	SingleAlleleFreq	1	SC_JCM,	1	T,	420.000000,	1.000000,	
+642	chr17	7579988	7579989	rs113111268	0	+	G	G	A/G	genomic	single	unknown	0.5	0	intron,near-gene-5	exact	1		1	BUSHMAN,	2	A,G,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7580007	7580008	rs2543547	0	-	A	A	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SC_JCM,	0				
+642	chr17	7580013	7580014	rs2543546	0	-	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SC_JCM,	0				
+642	chr17	7580026	7580027	rs186819604	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		3	1000GENOMES,GMI,SSMP,	2	C,T,	5005.000000,3.000000,	0.999401,0.000599,	
+642	chr17	7580051	7580052	rs8079544	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		14	1000GENOMES,AFFY,CGM_KYOTO,EGP_SNPS,EVA-GONL,GMI,ILLUMINA,JMKIDD_LAB,KRIBB_YJKIM,PERLEGEN,SNP500CANCER,SSMP,TISHKOFF,WI_SSAHASNP,	2	C,T,	4616.000000,392.000000,	0.921725,0.078275,	maf-5-some-pop
+642	chr17	7580067	7580068	rs539790881	0	+	A	A	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7580116	7580117	rs140699530	0	+	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		3	1000GENOMES,EVA-GONL,TISHKOFF,	2	C,G,	4969.000000,39.000000,	0.992212,0.007788,	
+642	chr17	7580139	7580140	rs2856751	0	-	T	T	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	ABI,SC_JCM,	0				
+642	chr17	7580162	7580163	rs369145461	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,SSMP,	2	C,G,	12.000000,4996.000000,	0.002396,0.997604,	
+642	chr17	7580255	7580256	rs138932666	0	+	A	A	-/A	genomic	deletion	by-1000genomes	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	0				
+642	chr17	7580256	7580257	rs34576726	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron,near-gene-5	exact	1		5	1000GENOMES,BL,GMI,PJP,SSMP,	2	-,T,	4296.000000,712.000000,	0.857827,0.142173,	
+642	chr17	7580270	7580272	rs539718496	0	+	TT	TT	-/TT	genomic	deletion	unknown	0	0	intron,near-gene-5	range	1		1	HGSV,	0				
+642	chr17	7580271	7580272	rs35069695	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron,near-gene-5	exact	1	SingleAlleleFreq	3	ABI,HGSV,HUMANGENOME_JCVI,	1	-,	2.000000,	1.000000,	
+642	chr17	7580280	7580281	rs9894227	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,BCM_SSAHASNP,	2	A,G,	71.000000,4937.000000,	0.014177,0.985823,	
+642	chr17	7580300	7580300	rs576758451	0	+	-	-	-/C	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	EVA-GONL,	0				
+642	chr17	7580341	7580342	rs562134383	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7580346	7580347	rs147856400	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,EVA-GONL,	2	C,T,	4998.000000,10.000000,	0.998003,0.001997,	
+642	chr17	7580421	7580421	rs569968124	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	1000GENOMES,	2	-,T,	5003.000000,5.000000,	0.999002,0.000998,	
+642	chr17	7580435	7580436	rs544461835	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7580488	7580489	rs4380105	0	-	G	G	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SC_JCM,	0				
+642	chr17	7580491	7580492	rs191229483	0	+	G	G	C/G	genomic	single	by-1000genomes	0.000918	0.0214	intron,near-gene-5	exact	1		1	1000GENOMES,	0				
+642	chr17	7580499	7580500	rs12944939	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		12	1000GENOMES,BCM-HGSC-SUB,COMPLETE_GENOMICS,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,ILLUMINA-UK,JMKIDD_LAB,SSAHASNP,SSMP,TISHKOFF,	2	C,T,	4158.000000,850.000000,	0.830272,0.169728,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7580505	7580506	rs1642784	0	-	A	A	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	SingleAlleleFreq	2	ABI,SC_JCM,	1	T,	56.000000,	1.000000,	
+642	chr17	7580520	7580521	rs12944960	0	+	C	C	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SSAHASNP,	0				
+642	chr17	7580578	7580579	rs113868252	0	+	G	G	A/G	genomic	single	unknown	0.5	0	intron,near-gene-5	exact	1		1	BUSHMAN,	2	A,G,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7580597	7580598	rs183764174	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7580650	7580651	rs551620691	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7580676	7580677	rs560431247	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7580695	7580696	rs528051799	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7580708	7580709	rs546220406	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7580768	7580769	rs1794285	0	-	T	T	A/C	genomic	single	by-hapmap	0	0	intron,near-gene-5	exact	1	SingleAlleleFreq	2	ABI,SC_JCM,	1	A,	420.000000,	1.000000,	
+642	chr17	7580819	7580820	rs568048433	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5000.000000,8.000000,	0.998403,0.001597,	
+642	chr17	7580826	7580827	rs189616033	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	14.000000,4994.000000,	0.002796,0.997204,	
+642	chr17	7580839	7580840	rs1642783	0	-	T	T	A/C	genomic	single	by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	2	ABI,SC_JCM,	1	A,	418.000000,	1.000000,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7580862	7580863	rs550500020	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7580901	7580902	rs34130474	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7580902	7580903	rs35397144	0	+	T	T	G/T	genomic	single	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7580909	7580910	rs35442978	0	+	C	C	-/C	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7580916	7580917	rs555674988	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7580920	7580921	rs35901186	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7580940	7580941	rs9897559	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		8	1000GENOMES,BCM_SSAHASNP,BUSHMAN,EGP_SNPS,ILLUMINA,JMKIDD_LAB,SSMP,TISHKOFF,	2	C,T,	4667.000000,341.000000,	0.931909,0.068091,	maf-5-some-pop
+642	chr17	7581001	7581002	rs182329320	0	+	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581041	7581042	rs113451673	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		4	1000GENOMES,COMPLETE_GENOMICS,EVA-GONL,ILLUMINA,	2	A,G,	4988.000000,20.000000,	0.996006,0.003994,	
+642	chr17	7581118	7581119	rs139717912	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	4989.000000,19.000000,	0.996206,0.003794,	
+642	chr17	7581123	7581124	rs1642782	0	-	A	A	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	15	1000GENOMES,ABI,BCM-HGSC-SUB,COMPLETE_GENOMICS,EGP_SNPS,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA-UK,JMKIDD_LAB,SC_JCM,SSMP,TISHKOFF,TKS,	4	A,C,G,T,	3944.000000,1064.000000,1064.000000,3944.000000,	0.393770,0.106230,0.106230,0.393770,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7581161	7581162	rs555763673	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7581177	7581178	rs561143192	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581181	7581182	rs544736114	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7581220	7581221	rs1642781	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1		2	ABI,SC_JCM,	2	A,G,	184.000000,0.000000,	1.000000,0.000000,	
+642	chr17	7581226	7581227	rs562842808	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5005.000000,3.000000,	0.999401,0.000599,	
+642	chr17	7581227	7581228	rs8078476	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		11	1000GENOMES,BUSHMAN,COMPLETE_GENOMICS,EGP_SNPS,EVA-GONL,HGSV,ILLUMINA,JMKIDD_LAB,SSMP,TISHKOFF,WI_SSAHASNP,	2	A,G,	242.000000,4766.000000,	0.048323,0.951677,	maf-5-some-pop
+642	chr17	7581261	7581262	rs149933694	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581270	7581271	rs1794284	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	16	1000GENOMES,ABI,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,ILLUMINA-UK,JMKIDD_LAB,PJP,SC_JCM,SSMP,TISHKOFF,TKS,	4	A,C,G,T,	1247.000000,3761.000000,3761.000000,1247.000000,	0.124501,0.375499,0.375499,0.124501,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7581274	7581275	rs528013909	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7581285	7581286	rs371132534	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7581295	7581296	rs372470541	0	+	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7581347	7581348	rs185287807	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581356	7581357	rs375751914	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSMP,	2	A,G,	5000.000000,8.000000,	0.998403,0.001597,	
+642	chr17	7581358	7581359	rs528885121	0	+	T	T	G/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	G,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581362	7581363	rs550609606	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7581394	7581395	rs190142224	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581406	7581407	rs144996157	0	+	C	C	C/T	genomic	single	by-1000genomes	0.00275	0.03698	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7581426	7581427	rs539616262	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7581431	7581432	rs34671852	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7581437	7581438	rs34321280	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7581444	7581445	rs35767899	0	+	G	G	-/G	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7581494	7581495	rs149071702	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	12.000000,4996.000000,	0.002396,0.997604,	
+642	chr17	7581535	7581536	rs143067669	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7581564	7581565	rs181338821	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7581581	7581582	rs532508334	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7581582	7581583	rs146675683	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,JMKIDD_LAB,	2	A,G,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7581633	7581635	rs34883789	0	+	TT	TT	AA/TT	genomic	mnp	unknown	0	0	intron	rangeSubstitution	1	FlankMismatchGenomeEqual	1	ABI,	0				
+642	chr17	7581680	7581683	rs35747654	0	+	CGG	CGG	CGG/GCC	genomic	mnp	unknown	0	0	intron	rangeSubstitution	1	FlankMismatchGenomeEqual	1	ABI,	0				
+642	chr17	7581681	7581682	rs567601524	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581700	7581701	rs537869537	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581709	7581710	rs185308142	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5003.000000,5.000000,	0.999002,0.000998,	
+642	chr17	7581766	7581770	rs148232927	0	+	TTTC	TTTC	-/TTTC	genomic	deletion	unknown	0	0	intron	range	1		4	1000GENOMES,EVA-GONL,LUNTER,SSMP,	2	-,TTTC,	1108.000000,3900.000000,	0.221246,0.778754,	
+642	chr17	7581769	7581773	rs377124038	0	+	CTTT	CTTT	-/CTTT	genomic	deletion	unknown	0	0	intron	range	1	MixedObserved	1	TISHKOFF,	0				
+642	chr17	7581769	7581770	rs562992753	0	+	C	C	-/C	genomic	deletion	unknown	0	0	intron	exact	1	MixedObserved	1	1000GENOMES,	2	-,C,	10.000000,4998.000000,	0.001997,0.998003,	
+642	chr17	7581775	7581776	rs199761628	0	+	C	C	-/C	genomic	deletion	by-1000genomes	0.042227	0.139033	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7581776	7581777	rs556714817	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7581802	7581803	rs371254181	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,TISHKOFF,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7581814	7581815	rs188169070	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	12.000000,4996.000000,	0.002396,0.997604,	
+642	chr17	7581819	7581820	rs529918746	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7581865	7581866	rs2543545	0	-	A	A	A/T	genomic	single	unknown	0	0	intron	exact	1	MixedObserved	1	SC_JCM,	0				
+642	chr17	7581865	7581865	rs35026619	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1	MixedObserved	1	ABI,	0				
+642	chr17	7581866	7581867	rs2543544	0	-	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	0				
+642	chr17	7581867	7581868	rs35298836	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7581872	7581873	rs181020951	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581873	7581874	rs140242494	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7581884	7581885	rs543260404	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7581893	7581894	rs4411556	0	-	C	C	A/G	genomic	single	by-cluster	0	0	intron	exact	1	SingleAlleleFreq	2	ABI,SC_JCM,	1	G,	4.000000,	1.000000,	
+642	chr17	7581910	7581911	rs561434093	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7581917	7581918	rs528846417	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5000.000000,8.000000,	0.998403,0.001597,	
+642	chr17	7581999	7582000	rs543884908	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7582018	7582019	rs185047143	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSMP,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7582037	7582038	rs4407108	0	-	C	C	G/T	genomic	single	unknown	0	0	intron	exact	1		2	ABI,SC_JCM,	0				
+642	chr17	7582041	7582042	rs374834917	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7582066	7582067	rs533094038	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7582067	7582068	rs551589424	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7582068	7582069	rs566716029	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7582142	7582142	rs202173613	0	+	-	-	-/T	genomic	insertion	by-cluster	0	0	intron	between	1		2	GMI,SSMP,	0				
+642	chr17	7582175	7582176	rs368257200	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7582207	7582208	rs374836898	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,TISHKOFF,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7582240	7582244	rs529512849	0	+	TTTT	TTTT	-/TTTT	genomic	deletion	unknown	0	0	intron	range	1	MixedObserved	1	1000GENOMES,	2	-,TTTT,	12.000000,4996.000000,	0.002396,0.997604,	
+642	chr17	7582240	7582240	rs575188915	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1	MixedObserved	1	SSIP,	0				
+642	chr17	7582273	7582274	rs17884326	0	-	C	C	A/G	genomic	single	unknown	0.011173	0.073903	intron	exact	1		1	EGP_SNPS,	2	A,G,	1.000000,177.000000,	0.005618,0.994382,	
+642	chr17	7582294	7582296	rs539341303	0	+	GT	GT	-/GT	genomic	deletion	unknown	0	0	intron	range	1		1	SSIP,	0				
+642	chr17	7582303	7582304	rs192049808	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	C,T,	4995.000000,13.000000,	0.997404,0.002596,	
+642	chr17	7582382	7582384	rs1794300	0	-	GC	GC	C/G	genomic	single	unknown	0	0	intron	rangeDeletion	1	FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch	1	SC_JCM,	0				observed-mismatch
+642	chr17	7582422	7582423	rs183936589	0	+	C	C	C/T	genomic	single	by-1000genomes	0.035171	0.127861	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7582476	7582477	rs17886508	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	6.000000,5002.000000,5002.000000,6.000000,	0.000599,0.499401,0.499401,0.000599,	
+642	chr17	7582477	7582478	rs538218781	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	9.000000,4999.000000,	0.001797,0.998203,	
+642	chr17	7582500	7582501	rs563218038	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7582551	7582552	rs566664838	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7582606	7582611	rs374154934	0	+	TTTTA	TTTTA	-/TTTTA	genomic	deletion	unknown	0	0	intron	range	1		4	1000GENOMES,LUNTER,SSIP,SSMP,	2	-,TTTTA,	1698.000000,3310.000000,	0.339058,0.660942,	
+642	chr17	7582640	7582650	rs71159521	0	+	ATTTTATTTT	ATTTTATTTT	-/ATTTTATTTT	genomic	deletion	unknown	0	0	intron	range	1	SingleAlleleFreq	1	HUMANGENOME_JCVI,	1	-,	2.000000,	1.000000,	
+642	chr17	7582645	7582650	rs61151883	0	+	ATTTT	ATTTT	-/ATTTT	genomic	deletion	unknown	0	0	intron	range	1		1	HGSV,	0				
+642	chr17	7582647	7582648	rs556319702	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7582664	7582665	rs565063030	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSIP,	2	A,G,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7582715	7582715	rs200866599	0	+	-	-	-/CCT	genomic	insertion	by-1000genomes	0.443213	0.158646	intron	between	1		1	1000GENOMES,	0				
+642	chr17	7582719	7582719	rs17886028	0	-	-	-	-/AAG	genomic	insertion	unknown	0	0	intron	between	1	InconsistentAlleles	8	1000GENOMES,BUSHMAN,EGP_SNPS,EVA-GONL,GMI,HUMANGENOME_JCVI,LUNTER,PJP,	3	-,AAG,CTT,	5968.000000,2024.000000,2024.000000,	0.595847,0.202077,0.202077,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7582720	7582720	rs138442480	0	+	-	-	-/CTT	genomic	insertion	by-cluster	0	0	intron	between	1		2	PJP,SSMP,	0				
+642	chr17	7582721	7582721	rs57641891	0	+	-	-	-/TCT	genomic	insertion	by-cluster	0	0	intron	between	1	SingleAlleleFreq	2	HGSV,HUMANGENOME_JCVI,	1	TCT,	2.000000,	1.000000,	
+642	chr17	7582822	7582823	rs538795253	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7582835	7582836	rs2909429	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	0				
+642	chr17	7582858	7582859	rs553851614	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5.000000,5003.000000,	0.000998,0.999002,	
+642	chr17	7582873	7582874	rs12603869	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		15	1000GENOMES,ABI,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,JMKIDD_LAB,PJP,SSAHASNP,SSMP,TISHKOFF,TKS,	2	A,G,	3867.000000,1141.000000,	0.772165,0.227835,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7582874	7582875	rs111858146	0	+	C	C	-/C	genomic	deletion	unknown	0.5	0	intron	exact	1		1	BUSHMAN,	2	-,C,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7582874	7582874	rs534827391	0	+	-	-	-/C	genomic	insertion	unknown	0	0	intron	between	1		1	1000GENOMES,	2	-,C,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7582905	7582906	rs186814393	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7582909	7582910	rs17880541	0	-	C	C	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	25.000000,4983.000000,4983.000000,25.000000,	0.002496,0.497504,0.497504,0.002496,	
+642	chr17	7582917	7582918	rs3021071	0	-	A	A	G/T	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	0				
+642	chr17	7582921	7582922	rs576692145	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7582925	7582926	rs2909428	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	MixedObserved	1	SC_JCM,	0				
+642	chr17	7582925	7582927	rs3021070	0	-	TG	TG	C/G	genomic	single	unknown	0	0	intron	rangeDeletion	1	MixedObserved,FlankMismatchGenomeShorter,SingleClassLongerSpan,ObservedMismatch	1	SC_JCM,	0				observed-mismatch
+642	chr17	7582933	7582934	rs544179276	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7582943	7582944	rs2909427	0	-	G	G	C/T	genomic	single	by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	1	SC_JCM,	1	C,	404.000000,	1.000000,	
+642	chr17	7582984	7582985	rs562506137	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7583012	7583013	rs12602273	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		19	1000GENOMES,ABI,AFFY,BCM-HGSC-SUB,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,ILLUMINA,ILLUMINA-UK,JMKIDD_LAB,KRIBB_YJKIM,PERLEGEN,PJP,SSMP,TISHKOFF,	2	C,G,	3862.000000,1146.000000,	0.771166,0.228834,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7583029	7583030	rs191666362	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7583071	7583072	rs17882863	0	-	A	A	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	5	1000GENOMES,EGP_SNPS,EVA-GONL,ILLUMINA,KRIBB_YJKIM,	4	A,C,G,T,	4993.000000,15.000000,15.000000,4993.000000,	0.498502,0.001498,0.001498,0.498502,	
+642	chr17	7583082	7583083	rs2078486	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		21	1000GENOMES,ABI,AFFY,BCM-HGSC-SUB,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,ILLUMINA,ILLUMINA-UK,JMKIDD_LAB,KRIBB_YJKIM,PERLEGEN,PJP,SNP500CANCER,SSMP,TISHKOFF,TSC-CSHL,	2	A,G,	1146.000000,3862.000000,	0.228834,0.771166,	maf-5-some-pop,maf-5-all-pops,genotype-conflict
+642	chr17	7583087	7583088	rs2871359	0	-	T	T	A/T	genomic	single	by-cluster,by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	3	SC_JCM,SNP500CANCER,TSC-CSHL,	1	A,	810.000000,	1.000000,	
+642	chr17	7583098	7583099	rs183003120	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7583108	7583109	rs149598341	0	+	A	A	A/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7583119	7583120	rs144295313	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	13.000000,4995.000000,	0.002596,0.997404,	
+642	chr17	7583123	7583124	rs3021069	0	-	G	G	C/G	genomic	single	by-cluster,by-2hit-2allele,by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	2	SC_JCM,SNP500CANCER,	1	C,	606.000000,	1.000000,	
+642	chr17	7583162	7583163	rs550146261	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583185	7583186	rs532437594	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSIP,	2	A,G,	25.000000,4983.000000,	0.004992,0.995008,	
+642	chr17	7583193	7583194	rs538658434	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583197	7583198	rs34766441	0	-	A	A	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	4	1000GENOMES,ILLUMINA,KRIBB_YJKIM,SNP500CANCER,	4	A,C,G,T,	4998.000000,10.000000,10.000000,4998.000000,	0.499002,0.000998,0.000998,0.499002,	
+642	chr17	7583221	7583222	rs565856858	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7583226	7583227	rs17883373	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	4	1000GENOMES,EGP_SNPS,EVA-GONL,SNP500CANCER,	4	A,C,G,T,	10.000000,4998.000000,4998.000000,10.000000,	0.000998,0.499002,0.499002,0.000998,	
+642	chr17	7583264	7583265	rs554899075	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583273	7583274	rs576664483	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7583315	7583316	rs527998723	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	JMKIDD_LAB,	0				
+642	chr17	7583373	7583374	rs541512619	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7583390	7583391	rs722494	0	+	G	G	C/G	genomic	single	by-cluster,by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	2	SNP500CANCER,TSC-CSHL,	1	G,	806.000000,	1.000000,	
+642	chr17	7583432	7583433	rs537388450	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583469	7583470	rs114646359	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	21.000000,4987.000000,	0.004193,0.995807,	
+642	chr17	7583499	7583500	rs1642780	0	-	A	A	G/T	genomic	single	by-2hit-2allele,by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	1	SC_JCM,	1	T,	416.000000,	1.000000,	
+642	chr17	7583528	7583528	rs5819163	0	+	-	-	-/ACA	genomic	insertion	unknown	0	0	intron	between	1		5	1000GENOMES,BILGI_BIOE,EVA-GONL,GMI,LUNTER,	2	-,ACA,	3861.000000,1147.000000,	0.770966,0.229034,	
+642	chr17	7583529	7583529	rs1160901	0	+	-	-	-/ACA/CAA	genomic	insertion	by-cluster	0.233763	0.249472	intron	between	1		2	SSMP,TISHKOFF,	0				
+642	chr17	7583532	7583532	rs397832579	0	+	-	-	-/CAA	genomic	insertion	by-frequency	0	0	intron	between	1	NonIntegerChromCount	1	MARSHFIELD,	2	-,CAA,	295.779999,46.220001,	0.864854,0.135146,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7583561	7583562	rs372886891	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7583567	7583568	rs11651395	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1	SingleAlleleFreq	2	CSHL-HAPMAP,EVA-GONL,	1	T,	418.000000,	1.000000,	
+642	chr17	7583585	7583586	rs577670450	0	+	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583586	7583587	rs545035266	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583610	7583611	rs547399513	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7583621	7583622	rs560270023	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583626	7583627	rs540591718	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7583651	7583652	rs1642779	0	-	A	A	A/T	genomic	single	by-hapmap	0	0	intron	exact	1	SingleAlleleFreq	1	SC_JCM,	1	T,	402.000000,	1.000000,	
+642	chr17	7583683	7583684	rs565731410	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7583702	7583703	rs191741187	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7583713	7583714	rs565537110	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7583724	7583725	rs542801390	0	+	T	T	G/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	G,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583745	7583746	rs560974793	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7583747	7583748	rs182426642	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583776	7583777	rs549624438	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7583779	7583780	rs376489467	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7583798	7583799	rs564853532	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7583814	7583814	rs71387982	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1		3	1000GENOMES,BILGI_BIOE,HUMANGENOME_JCVI,	2	-,T,	3901.000000,1107.000000,	0.778954,0.221046,	
+642	chr17	7583822	7583822	rs34922547	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1		1	PJP,	0				
+642	chr17	7583828	7583845	rs374687601	0	+	GAGATAGAGTTTCACTC	GAGATAGAGTTTCACTC	-/GAGATAGAGTTTCACTC	genomic	deletion	unknown	0	0	intron	range	1	MixedObserved	1	LUNTER,	0				
+642	chr17	7583828	7583828	rs397857789	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1	MixedObserved	1	ABI,	0				
+642	chr17	7583845	7583845	rs112634888	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1		2	1000GENOMES,BUSHMAN,	2	-,T,	4326.000000,682.000000,	0.863818,0.136182,	
+642	chr17	7583860	7583861	rs79959593	0	+	G	G	G/T	genomic	single	unknown	0.5	0	intron	exact	1	MixedObserved	1	ENSEMBL,	2	G,T,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7583860	7583860	rs34841840	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1	MixedObserved	1	ABI,	0				
+642	chr17	7583862	7583863	rs532345343	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7583872	7583873	rs536580871	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7583884	7583885	rs139113856	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7583888	7583889	rs143002701	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	10.000000,4998.000000,	0.001997,0.998003,	
+642	chr17	7583896	7583897	rs186708994	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	4985.000000,23.000000,	0.995407,0.004593,	
+642	chr17	7583902	7583903	rs11869968	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		5	1000GENOMES,CSHL-HAPMAP,EVA-GONL,JMKIDD_LAB,SSMP,	2	C,G,	4874.000000,134.000000,	0.973243,0.026757,	
+642	chr17	7584031	7584032	rs12945970	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		12	1000GENOMES,ABI,COMPLETE_GENOMICS,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,JMKIDD_LAB,PJP,SSAHASNP,SSMP,TISHKOFF,	2	A,G,	1148.000000,3860.000000,	0.229233,0.770767,	
+642	chr17	7584079	7584080	rs193124664	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7584086	7584087	rs1794299	0	-	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	0				
+642	chr17	7584093	7584094	rs559257856	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5002.000000,6.000000,	0.998802,0.001198,	
+642	chr17	7584117	7584118	rs142688717	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7584118	7584119	rs150569760	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	15.000000,4993.000000,	0.002995,0.997005,	
+642	chr17	7584137	7584138	rs553846398	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5005.000000,3.000000,	0.999401,0.000599,	
+642	chr17	7584196	7584197	rs139560719	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,TISHKOFF,	2	A,G,	4876.000000,132.000000,	0.973642,0.026358,	
+642	chr17	7584202	7584203	rs542312763	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7584265	7584266	rs11655922	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1	MixedObserved	7	1000GENOMES,BUSHMAN,CSHL-HAPMAP,ENSEMBL,EVA-GONL,JMKIDD_LAB,TISHKOFF,	2	A,G,	87.000000,4921.000000,	0.017372,0.982628,	
+642	chr17	7584265	7584266	rs374612114	0	+	G	G	-/G	genomic	deletion	unknown	0	0	intron	exact	1	MixedObserved	1	ABI,	0				
+642	chr17	7584273	7584274	rs112722792	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		4	1000GENOMES,BUSHMAN,JMKIDD_LAB,SSMP,	2	A,G,	24.000000,4984.000000,	0.004792,0.995208,	
+642	chr17	7584302	7584303	rs190027520	0	+	A	A	A/C	genomic	single	by-1000genomes	0.000918	0.0214	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7584328	7584329	rs35951828	0	+	G	G	-/G	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7584342	7584343	rs543236381	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7584350	7584351	rs564814892	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7584354	7584355	rs532305689	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7584399	7584400	rs11652704	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		16	1000GENOMES,BUSHMAN,COMPLETE_GENOMICS,CSHL-HAPMAP,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA,JMKIDD_LAB,KRIBB_YJKIM,PJP,SSAHASNP,SSMP,TISHKOFF,	2	C,T,	2034.000000,2974.000000,	0.406150,0.593850,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7584451	7584452	rs2909425	0	-	T	T	A/C	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	0				
+642	chr17	7584488	7584489	rs34199921	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron	exact	1		4	1000GENOMES,HGSV,HUMANGENOME_JCVI,PJP,	2	-,T,	2065.000000,2943.000000,	0.412340,0.587660,	
+642	chr17	7584505	7584506	rs397857244	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7584514	7584515	rs35175270	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		10	1000GENOMES,ABI,BCM-HGSC-SUB,COMPLETE_GENOMICS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,PJP,	2	A,G,	3856.000000,1152.000000,	0.769968,0.230032,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7584598	7584599	rs530107147	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7584659	7584659	rs573116822	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1		1	SSIP,	0				
+642	chr17	7584716	7584717	rs548349199	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7584765	7584766	rs373605356	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7584810	7584811	rs570148241	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7584871	7584872	rs193018176	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	27.000000,4981.000000,	0.005391,0.994609,	
+642	chr17	7584899	7584900	rs566703631	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7585027	7585028	rs548846539	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SSIP,	0				
+642	chr17	7585055	7585057	rs548969562	0	+	CT	CT	-/CT	genomic	deletion	unknown	0	0	intron	range	1		1	1000GENOMES,	2	-,CT,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7585075	7585077	rs34192711	0	+	TA	TA	CT/TA	genomic	mnp	unknown	0	0	intron	rangeSubstitution	1	FlankMismatchGenomeEqual	1	ABI,	0				
+642	chr17	7585108	7585110	rs571141110	0	+	TC	TC	-/TC	genomic	deletion	unknown	0	0	intron	range	1		1	1000GENOMES,	2	-,TC,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7585110	7585112	rs139628695	0	+	TT	TT	-/TT	genomic	deletion	unknown	0	0	intron	range	1		3	1000GENOMES,EVA-GONL,LUNTER,	0				
+642	chr17	7585115	7585116	rs200656663	0	+	C	C	-/C	genomic	deletion	by-1000genomes	0.217888	0.247929	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7585116	7585116	rs367940585	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1		2	1000GENOMES,BILGI_BIOE,	2	-,T,	3941.000000,1067.000000,	0.786941,0.213059,	
+642	chr17	7585129	7585129	rs35196824	0	+	-	-	-/T	genomic	insertion	by-cluster	0	0	intron	between	1	SingleAlleleFreq	2	ABI,HUMANGENOME_JCVI,	1	T,	2.000000,	1.000000,	
+642	chr17	7585206	7585207	rs570181271	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,SSIP,	2	A,G,	9.000000,4999.000000,	0.001797,0.998203,	
+642	chr17	7585219	7585220	rs184327372	0	+	T	T	A/T	genomic	single	by-1000genomes	0.006407	0.056237	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7585235	7585236	rs188709599	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		3	1000GENOMES,EVA-GONL,SSMP,	2	C,T,	4765.000000,243.000000,	0.951478,0.048522,	
+642	chr17	7585265	7585266	rs2543543	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	SingleAlleleFreq	2	ABI,SC_JCM,	1	A,	4.000000,	1.000000,	
+642	chr17	7585361	7585362	rs146701070	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		3	1000GENOMES,EVA-GONL,JMKIDD_LAB,	2	C,T,	4974.000000,34.000000,	0.993211,0.006789,	
+642	chr17	7585388	7585389	rs553709209	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	13.000000,4995.000000,	0.002596,0.997404,	
+642	chr17	7585448	7585449	rs140262429	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7585531	7585532	rs8068551	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		4	1000GENOMES,ENSEMBL,HGSV,WI_SSAHASNP,	2	C,T,	691.000000,4317.000000,	0.137979,0.862021,	
+642	chr17	7585533	7585534	rs554341153	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	865.000000,4143.000000,	0.172724,0.827276,	
+642	chr17	7585545	7585546	rs79053062	0	+	T	T	G/T	genomic	single	unknown	0	0	intron	exact	1	MixedObserved,SingleAlleleFreq	1	ENSEMBL,	1	G,	2.000000,	1.000000,	
+642	chr17	7585545	7585547	rs548057399	0	+	TT	TT	-/TT	genomic	deletion	unknown	0	0	intron	range	1	MixedObserved	1	HGSV,	0				
+642	chr17	7585546	7585547	rs60476429	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron	exact	1		2	HGSV,PJP,	0				
+642	chr17	7585555	7585556	rs181106784	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	G,T,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7585571	7585572	rs543195700	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7585589	7585590	rs558371002	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7585617	7585618	rs537744638	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7585631	7585632	rs200039268	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,GMI,	2	A,G,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7585641	7585642	rs540877250	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7585649	7585650	rs559605329	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7585651	7585652	rs530007380	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7585662	7585663	rs1614753	0	-	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	0				
+642	chr17	7585692	7585693	rs542228636	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7585723	7585724	rs563617241	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7585758	7585759	rs531069166	0	+	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,T,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7585796	7585797	rs1613838	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	0				
+642	chr17	7585810	7585810	rs201770608	0	+	-	-	-/GGTGGCTCACGCC	genomic	insertion	unknown	0	0	intron	between	1		1	ILLUMINA,	0				
+642	chr17	7585822	7585822	rs17878359	0	+	-	-	-/GGTGGCTCACGCC	genomic	insertion	by-cluster	0.011049	0.073502	intron	between	1		2	EGP_SNPS,ILLUMINA,	2	-,GGTGGCTCACGCC,	1.000000,179.000000,	0.005556,0.994444,	
+642	chr17	7585824	7585825	rs1613749	0	-	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	SC_JCM,	0				
+642	chr17	7585828	7585829	rs1642778	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1		3	ILLUMINA,KRIBB_YJKIM,SC_JCM,	2	C,T,	434.000000,4.000000,	0.990868,0.009132,	
+642	chr17	7585854	7585855	rs185158874	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	6.000000,5002.000000,	0.001198,0.998802,	
+642	chr17	7585903	7585904	rs555778727	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7585967	7585968	rs34104022	0	+	A	A	-/A	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7586016	7586017	rs567699173	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7586036	7586037	rs189318118	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586045	7586046	rs113869474	0	+	A	A	A/C	genomic	single	unknown	0	0	intron	exact	1		3	1000GENOMES,BUSHMAN,JMKIDD_LAB,	2	A,C,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7586057	7586058	rs182160158	0	+	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1	MixedObserved	1	1000GENOMES,	2	A,T,	4.000000,5004.000000,	0.000799,0.999201,	
+642	chr17	7586057	7586057	rs371382054	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1	MixedObserved	1	SSMP,	0				
+642	chr17	7586060	7586061	rs17881002	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	5	1000GENOMES,EGP_SNPS,EVA-GONL,ILLUMINA,KRIBB_YJKIM,	4	A,C,G,T,	4990.000000,18.000000,18.000000,4990.000000,	0.498203,0.001797,0.001797,0.498203,	
+642	chr17	7586062	7586063	rs17886107	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	6	1000GENOMES,BUSHMAN,EGP_SNPS,HGSV,JMKIDD_LAB,TISHKOFF,	4	A,C,G,T,	4920.000000,88.000000,88.000000,4920.000000,	0.491214,0.008786,0.008786,0.491214,	maf-5-some-pop
+642	chr17	7586078	7586079	rs17881789	0	-	C	C	G/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	25.000000,4983.000000,4983.000000,25.000000,	0.002496,0.497504,0.497504,0.002496,	
+642	chr17	7586079	7586080	rs17880658	0	-	A	A	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	4	1000GENOMES,EGP_SNPS,ILLUMINA,KRIBB_YJKIM,	4	A,C,G,T,	4983.000000,25.000000,25.000000,4983.000000,	0.497504,0.002496,0.002496,0.497504,	
+642	chr17	7586208	7586209	rs17884159	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	1.000000,5007.000000,5007.000000,1.000000,	0.000100,0.499900,0.499900,0.000100,	
+642	chr17	7586254	7586255	rs558234008	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586257	7586258	rs75905028	0	+	T	T	A/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	A,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586345	7586346	rs540840264	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586357	7586358	rs148158283	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		3	1000GENOMES,JMKIDD_LAB,TISHKOFF,	2	C,T,	4980.000000,28.000000,	0.994409,0.005591,	
+642	chr17	7586358	7586359	rs187177995	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7586368	7586368	rs574271818	0	+	-	-	-/C	genomic	insertion	unknown	0	0	intron	between	1		1	1000GENOMES,	2	-,C,	4998.000000,10.000000,	0.998003,0.001997,	
+642	chr17	7586379	7586380	rs541850520	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5002.000000,6.000000,	0.998802,0.001198,	
+642	chr17	7586380	7586381	rs17883925	0	-	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EGP_SNPS,	2	C,G,	5008.000000,5008.000000,	0.500000,0.500000,	
+642	chr17	7586386	7586387	rs530934012	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7586420	7586421	rs201622492	0	+	A	A	-/A	genomic	deletion	by-1000genomes	0.055311	0.156832	intron	exact	1		1	1000GENOMES,	0				
+642	chr17	7586421	7586422	rs17886213	0	-	A	A	A/T	genomic	single	by-frequency	0.035491	0.128398	intron	exact	1		1	EGP_SNPS,	2	A,T,	3.000000,163.000000,	0.018072,0.981928,	
+642	chr17	7586422	7586426	rs143394414	0	+	TTTT	TTTT	-/TTTT	genomic	deletion	by-cluster	0	0	intron	range	1		3	BILGI_BIOE,PJP,SSMP,	0				
+642	chr17	7586457	7586458	rs368673388	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	BILGI_BIOE,	0				
+642	chr17	7586458	7586459	rs573371609	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7586470	7586471	rs191945441	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	6.000000,5002.000000,	0.001198,0.998802,	
+642	chr17	7586475	7586476	rs564586659	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586511	7586512	rs528669387	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7586528	7586529	rs547200735	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	4.000000,5004.000000,	0.000799,0.999201,	
+642	chr17	7586586	7586587	rs1794298	0	-	T	T	A/G	genomic	single	unknown	0	0	intron	exact	1	SingleAlleleFreq	2	ABI,SC_JCM,	1	A,	2.000000,	1.000000,	
+642	chr17	7586587	7586588	rs562230710	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586613	7586614	rs558991420	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7586649	7586650	rs183171181	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	8.000000,5000.000000,	0.001597,0.998403,	
+642	chr17	7586686	7586687	rs186024541	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7586705	7586706	rs569262343	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7586738	7586739	rs17884387	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	3	1000GENOMES,EGP_SNPS,EVA-GONL,	4	A,C,G,T,	1.000000,5007.000000,5007.000000,1.000000,	0.000100,0.499900,0.499900,0.000100,	
+642	chr17	7586788	7586789	rs17880340	0	-	A	A	C/T	genomic	single	unknown	0	0	intron	exact	1	InconsistentAlleles	3	1000GENOMES,EGP_SNPS,HGSV,	4	A,C,G,T,	4971.000000,37.000000,37.000000,4971.000000,	0.496306,0.003694,0.003694,0.496306,	
+642	chr17	7586793	7586794	rs570232787	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	4989.000000,19.000000,	0.996206,0.003794,	
+642	chr17	7586798	7586799	rs534495556	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7586813	7586814	rs553175668	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586839	7586840	rs544569940	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	EVA-GONL,	0				
+642	chr17	7586892	7586893	rs574643549	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586972	7586973	rs535697044	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7586985	7586986	rs1794297	0	-	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		2	ABI,SC_JCM,	0				
+642	chr17	7587036	7587036	rs201000503	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron	between	1		2	1000GENOMES,EVA-GONL,	0				
+642	chr17	7587080	7587081	rs62062585	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		5	1000GENOMES,BCMHGSC_JDW,ENSEMBL,EVA-GONL,GMI,	2	A,G,	7.000000,5001.000000,	0.001398,0.998602,	
+642	chr17	7587097	7587098	rs575675637	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587114	7587115	rs369768012	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	SSMP,	0				
+642	chr17	7587117	7587118	rs190365671	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,TISHKOFF,	2	C,T,	9.000000,4999.000000,	0.001797,0.998203,	
+642	chr17	7587179	7587180	rs11656607	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		15	1000GENOMES,BCM-HGSC-SUB,BUSHMAN,COMPLETE_GENOMICS,CSHL-HAPMAP,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA-UK,JMKIDD_LAB,PJP,SSAHASNP,SSMP,TISHKOFF,	2	C,T,	2038.000000,2970.000000,	0.406949,0.593051,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7587199	7587200	rs573411208	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7587208	7587209	rs35070017	0	+	T	T	-/T	genomic	deletion	unknown	0	0	intron	exact	1		1	ABI,	0				
+642	chr17	7587228	7587229	rs540459551	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587248	7587249	rs139152287	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		2	1000GENOMES,TISHKOFF,	2	C,T,	4980.000000,28.000000,	0.994409,0.005591,	
+642	chr17	7587249	7587250	rs529466520	0	+	G	G	G/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	G,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587319	7587320	rs551215186	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587342	7587343	rs562856054	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587356	7587357	rs182579081	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7587383	7587384	rs551782187	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587408	7587409	rs570196071	0	+	G	G	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	G,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587435	7587436	rs534764077	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7587466	7587467	rs546383142	0	+	A	A	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587473	7587474	rs187658938	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,EVA-GONL,	2	C,T,	6.000000,5002.000000,	0.001198,0.998802,	
+642	chr17	7587475	7587476	rs537671695	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SSIP,	0				
+642	chr17	7587481	7587482	rs535309576	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7587610	7587611	rs557265349	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7587686	7587687	rs76923748	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		4	1000GENOMES,BCM-HGSC-SUB,EVA-GONL,JMKIDD_LAB,	2	A,G,	4979.000000,29.000000,	0.994209,0.005791,	
+642	chr17	7587732	7587733	rs76032029	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		3	1000GENOMES,EVA-GONL,ILLUMINA,	2	C,T,	4.000000,5004.000000,	0.000799,0.999201,	
+642	chr17	7587759	7587760	rs558225537	0	+	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7587837	7587838	rs573252140	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7587898	7587899	rs17881035	0	-	T	T	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	11	1000GENOMES,BCM-HGSC-SUB,COMPLETE_GENOMICS,EGP_SNPS,EVA-GONL,GMI,ILLUMINA,ILLUMINA-UK,JMKIDD_LAB,SSMP,TISHKOFF,	4	A,C,G,T,	3935.000000,1073.000000,1073.000000,3935.000000,	0.392871,0.107129,0.107129,0.392871,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7587920	7587921	rs2909423	0	-	C	C	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	ABI,SC_JCM,	0				
+642	chr17	7587931	7587932	rs147469698	0	+	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,SSMP,	2	C,G,	5003.000000,5.000000,	0.999002,0.000998,	
+642	chr17	7587944	7587945	rs2909422	0	-	A	A	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	ABI,SC_JCM,	0				
+642	chr17	7587975	7587976	rs574141000	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	13.000000,4995.000000,	0.002596,0.997404,	
+642	chr17	7587976	7587977	rs2909421	0	-	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	ABI,SC_JCM,	0				
+642	chr17	7587999	7587999	rs540739179	0	+	-	-	-/A	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	SSIP,	0				
+642	chr17	7588005	7588006	rs9903378	0	+	A	A	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		11	1000GENOMES,ABI,BCM_SSAHASNP,BUSHMAN,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,ILLUMINA-UK,SSMP,	2	A,C,	4122.000000,886.000000,	0.823083,0.176917,	maf-5-some-pop
+642	chr17	7588011	7588014	rs75606561	0	+	AAA	AAA	-/AAA	genomic	deletion	unknown	0	0	intron,near-gene-5	range	1		1	BCMHGSC_JDW,	0				
+642	chr17	7588030	7588031	rs192569710	0	+	C	C	A/C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	SingleClassTriAllelic,InconsistentAlleles	2	1000GENOMES,JMKIDD_LAB,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7588058	7588059	rs35162515	0	+	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	ABI,	0				
+642	chr17	7588067	7588068	rs533477844	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7588078	7588079	rs35750430	0	+	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	ABI,	0				
+642	chr17	7588109	7588111	rs35779831	0	+	AA	AA	AA/CC	genomic	mnp	unknown	0	0	intron,near-gene-5	rangeSubstitution	1	FlankMismatchGenomeEqual	1	ABI,	0				
+642	chr17	7588111	7588112	rs183903752	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7588113	7588114	rs138131659	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,SSMP,	2	A,G,	4988.000000,20.000000,	0.996006,0.003994,	
+642	chr17	7588140	7588141	rs35194164	0	+	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	ABI,	0				
+642	chr17	7588155	7588156	rs35766407	0	+	A	A	-/A	genomic	deletion	unknown	0	0	intron,near-gene-5	exact	1		1	ABI,	0				
+642	chr17	7588172	7588173	rs35898718	0	+	T	T	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	ABI,	0				
+642	chr17	7588192	7588193	rs149545512	0	+	C	C	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	25.000000,4983.000000,	0.004992,0.995008,	
+642	chr17	7588217	7588217	rs34585689	0	+	-	-	-/A	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	ABI,	0				
+642	chr17	7588226	7588227	rs549642795	0	+	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	EVA-GONL,	0				
+642	chr17	7588258	7588259	rs546643266	0	+	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7588283	7588284	rs76397671	0	+	A	A	A/C	genomic	single	unknown	0.5	0	intron,near-gene-5	exact	1		1	ENSEMBL,	2	A,C,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7588292	7588292	rs35187003	0	+	-	-	-/A	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	ABI,	0				
+642	chr17	7588343	7588344	rs568085247	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7588469	7588470	rs17885845	0	-	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		13	1000GENOMES,ABI,BCM-HGSC-SUB,COMPLETE_GENOMICS,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HUMANGENOME_JCVI,ILLUMINA-UK,JMKIDD_LAB,SSMP,TISHKOFF,	2	A,T,	5008.000000,5008.000000,	0.500000,0.500000,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7588519	7588520	rs550829435	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7588559	7588560	rs17882227	0	-	A	A	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	16	1000GENOMES,BCM-HGSC-SUB,COMPLETE_GENOMICS,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA,ILLUMINA-UK,JMKIDD_LAB,KRIBB_YJKIM,PJP,SSMP,TISHKOFF,	4	A,C,G,T,	3855.000000,1153.000000,1153.000000,3855.000000,	0.384884,0.115116,0.115116,0.384884,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7588665	7588666	rs539788834	0	+	T	T	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	G,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7588679	7588680	rs17882854	0	-	C	C	-/G	genomic	deletion	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	9	1000GENOMES,EGP_SNPS,EVA-GONL,GMI,HUMANGENOME_JCVI,ILLUMINA,LUNTER,PJP,SSMP,	3	-,C,G,	1036.000000,4490.000000,4490.000000,	0.103435,0.448283,0.448283,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7588680	7588680	rs199693507	0	+	-	-	-/C	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	ILLUMINA,	0				
+642	chr17	7588711	7588712	rs144158270	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7588723	7588724	rs189246613	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7588729	7588730	rs533955235	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	8.000000,5000.000000,	0.001597,0.998403,	
+642	chr17	7588749	7588750	rs17883687	0	-	G	G	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	7	1000GENOMES,EGP_SNPS,EVA-GONL,HGSV,ILLUMINA,JMKIDD_LAB,SSMP,	4	A,C,G,T,	100.000000,4908.000000,4908.000000,100.000000,	0.009984,0.490016,0.490016,0.009984,	maf-5-some-pop
+642	chr17	7588760	7588761	rs574076243	0	+	G	G	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	G,T,	4996.000000,12.000000,	0.997604,0.002396,	
+642	chr17	7588774	7588775	rs544381283	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	MixedObserved	1	1000GENOMES,	2	C,T,	13.000000,4995.000000,	0.002596,0.997404,	
+642	chr17	7588774	7588774	rs539157295	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1	MixedObserved	1	EVA-GONL,	0				
+642	chr17	7588777	7588778	rs112839933	0	+	T	T	C/T	genomic	single	unknown	0.5	0	intron,near-gene-5	exact	1		1	BUSHMAN,	2	C,T,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7588777	7588777	rs17883353	0	-	-	-	-/C	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1	InconsistentAlleles	11	1000GENOMES,ABI,BILGI_BIOE,EGP_SNPS,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,LUNTER,PJP,TISHKOFF,	3	-,C,G,	7712.000000,1152.000000,1152.000000,	0.769968,0.115016,0.115016,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7588778	7588778	rs149681891	0	+	-	-	-/G	genomic	insertion	by-cluster	0	0	intron,near-gene-5	between	1		2	PJP,SSMP,	0				
+642	chr17	7588780	7588781	rs556377975	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7588817	7588818	rs577821666	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7588896	7588897	rs545258756	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7588955	7588956	rs17878400	0	-	G	G	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	25.000000,4983.000000,4983.000000,25.000000,	0.002496,0.497504,0.497504,0.002496,	
+642	chr17	7588960	7588961	rs74329053	0	+	A	A	A/T	genomic	single	by-cluster	0	0	intron,near-gene-5	exact	1		1	GMI,	0				
+642	chr17	7589042	7589043	rs1642777	0	-	C	C	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SC_JCM,	2	G,T,	184.000000,0.000000,	1.000000,0.000000,	
+642	chr17	7589046	7589047	rs17885988	0	-	G	G	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	3	1000GENOMES,EGP_SNPS,SSMP,	4	A,C,G,T,	22.000000,4986.000000,4986.000000,22.000000,	0.002196,0.497804,0.497804,0.002196,	
+642	chr17	7589051	7589052	rs1642776	0	-	G	G	A/C	genomic	single	by-hapmap	0	0	intron,near-gene-5	exact	1	SingleAlleleFreq	1	SC_JCM,	1	C,	420.000000,	1.000000,	
+642	chr17	7589059	7589060	rs539875669	0	+	C	C	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7589187	7589188	rs17881545	0	-	T	T	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	4	1000GENOMES,EGP_SNPS,JMKIDD_LAB,SSMP,	4	A,C,G,T,	4952.000000,56.000000,56.000000,4952.000000,	0.494409,0.005591,0.005591,0.494409,	
+642	chr17	7589223	7589224	rs529021537	0	+	T	T	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	G,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7589247	7589248	rs367553767	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SSMP,	0				
+642	chr17	7589261	7589262	rs550793257	0	+	A	A	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7589310	7589311	rs8064946	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		17	1000GENOMES,BCM-HGSC-SUB,BUSHMAN,COMPLETE_GENOMICS,CSHL-HAPMAP,EGP_SNPS,ENSEMBL,EVA-GONL,GMI,HGSV,HUMANGENOME_JCVI,ILLUMINA-UK,JMKIDD_LAB,PJP,SSMP,TISHKOFF,WI_SSAHASNP,	2	C,G,	2108.000000,2900.000000,	0.420927,0.579073,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7589319	7589320	rs373792181	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SSMP,	0				
+642	chr17	7589345	7589346	rs533168632	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7589376	7589377	rs551664752	0	+	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589388	7589389	rs566671572	0	+	T	T	A/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	1000GENOMES,	2	A,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7589403	7589404	rs534175315	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589413	7589414	rs555511214	0	+	G	G	G/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	1000GENOMES,	2	G,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589433	7589434	rs34975059	0	+	G	G	-/G	genomic	deletion	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	ABI,	0				
+642	chr17	7589453	7589454	rs146230720	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		2	1000GENOMES,ILLUMINA,	2	C,T,	4976.000000,32.000000,	0.993610,0.006390,	
+642	chr17	7589489	7589490	rs537903606	0	+	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	1000GENOMES,	2	A,T,	5004.000000,4.000000,	0.999201,0.000799,	
+642	chr17	7589503	7589504	rs556250319	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	1000GENOMES,	2	C,T,	3.000000,5005.000000,	0.000599,0.999401,	
+642	chr17	7589511	7589512	rs193086249	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		1	1000GENOMES,	2	C,T,	15.000000,4993.000000,	0.002995,0.997005,	
+642	chr17	7589518	7589519	rs139240810	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5,untranslated-5	exact	1		2	1000GENOMES,EVA-GONL,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7589586	7589587	rs554427817	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589600	7589601	rs1794296	0	-	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SC_JCM,	0				
+642	chr17	7589610	7589611	rs184462327	0	+	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589632	7589632	rs369318275	0	+	-	-	-/T	genomic	insertion	unknown	0	0	intron,near-gene-5	between	1		1	TISHKOFF,	0				
+642	chr17	7589645	7589646	rs188824921	0	+	G	G	A/G	genomic	single	by-1000genomes	0.00275	0.03698	intron,near-gene-5	exact	1		1	1000GENOMES,	0				
+642	chr17	7589652	7589653	rs1642775	0	-	A	A	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SC_JCM,	2	C,T,	0.000000,184.000000,	0.000000,1.000000,	
+642	chr17	7589666	7589667	rs1642774	0	-	A	A	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SC_JCM,	2	C,T,	0.000000,184.000000,	0.000000,1.000000,	
+642	chr17	7589668	7589669	rs1642773	0	-	A	A	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SC_JCM,	2	C,T,	0.000000,184.000000,	0.000000,1.000000,	
+642	chr17	7589690	7589691	rs540216506	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589701	7589702	rs561577997	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589704	7589705	rs191740863	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,EVA-GONL,	2	C,T,	5000.000000,8.000000,	0.998403,0.001597,	
+642	chr17	7589729	7589730	rs369140270	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	WARNICH_LAB,	0				
+642	chr17	7589746	7589747	rs544282297	0	+	C	C	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7589750	7589751	rs1794289	0	-	C	C	C/G	genomic	single	by-frequency	0.4422	0.159872	intron,near-gene-5	exact	1	NonIntegerChromCount	2	SC_JCM,SEQUENOM,	2	C,G,	60.720001,123.279999,	0.330000,0.670000,	maf-5-some-pop,maf-5-all-pops
+642	chr17	7589769	7589770	rs367945602	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,SSMP,	2	C,T,	5003.000000,5.000000,	0.999002,0.000998,	
+642	chr17	7589770	7589771	rs533128966	0	+	A	A	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589819	7589820	rs113041112	0	+	T	T	G/T	genomic	single	unknown	0.5	0	intron,near-gene-5	exact	1		1	BUSHMAN,	2	G,T,	1.000000,1.000000,	0.500000,0.500000,	
+642	chr17	7589829	7589830	rs551630498	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589840	7589841	rs560379437	0	+	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589844	7589845	rs527629213	0	+	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7589845	7589846	rs17881524	0	-	G	G	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	4	1000GENOMES,EGP_SNPS,ILLUMINA,KRIBB_YJKIM,	4	A,C,G,T,	1.000000,5007.000000,5007.000000,1.000000,	0.000100,0.499900,0.499900,0.000100,	
+642	chr17	7589847	7589848	rs183834143	0	+	A	A	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,SSMP,	2	A,C,	5003.000000,5.000000,	0.999002,0.000998,	
+642	chr17	7589895	7589896	rs537864949	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7589983	7589984	rs11656093	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		3	1000GENOMES,ABI,CSHL-HAPMAP,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7590056	7590057	rs571435114	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7590070	7590071	rs375101787	0	+	G	G	G/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	SSMP,	0				
+642	chr17	7590072	7590073	rs189184134	0	+	C	C	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	5005.000000,3.000000,	0.999401,0.000599,	
+642	chr17	7590123	7590124	rs9905505	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		9	1000GENOMES,BCM_SSAHASNP,EGP_SNPS,ILLUMINA,JMKIDD_LAB,KRIBB_YJKIM,SNP500CANCER,SSMP,TISHKOFF,	2	A,G,	4833.000000,175.000000,	0.965056,0.034944,	maf-5-some-pop
+642	chr17	7590146	7590147	rs572698417	0	+	A	A	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	5006.000000,2.000000,	0.999601,0.000399,	
+642	chr17	7590151	7590152	rs536499611	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,G,	2.000000,5006.000000,	0.000399,0.999601,	
+642	chr17	7590180	7590181	rs140726182	0	+	G	G	C/G	genomic	single	by-1000genomes	0.000918	0.0214	intron,near-gene-5	exact	1		1	1000GENOMES,	0				
+642	chr17	7590182	7590183	rs555250750	0	+	A	A	A/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7590268	7590269	rs573643732	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7590347	7590348	rs367710698	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	TISHKOFF,	0				
+642	chr17	7590373	7590374	rs181067279	0	+	T	T	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7590409	7590410	rs55651612	0	+	G	G	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		3	1000GENOMES,CGM_KYOTO,SSMP,	2	A,G,	7.000000,5001.000000,	0.001398,0.998602,	
+642	chr17	7590458	7590459	rs17883908	0	-	A	A	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	5	1000GENOMES,EGP_SNPS,JMKIDD_LAB,SNP500CANCER,TISHKOFF,	4	A,C,G,T,	4948.000000,60.000000,60.000000,4948.000000,	0.494010,0.005990,0.005990,0.494010,	
+642	chr17	7590467	7590468	rs145410568	0	+	A	A	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7590509	7590510	rs560135007	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7590511	7590512	rs55680224	0	+	G	G	C/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		2	1000GENOMES,CGM_KYOTO,	2	C,G,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7590546	7590547	rs17886250	0	-	C	C	A/G	genomic	single	unknown	0	0	intron,near-gene-5	exact	1	InconsistentAlleles	2	1000GENOMES,EGP_SNPS,	4	A,C,G,T,	31.000000,4977.000000,4977.000000,31.000000,	0.003095,0.496905,0.496905,0.003095,	
+642	chr17	7590584	7590585	rs34686922	0	-	A	A	C/T	genomic	single	by-cluster,by-frequency	0.040313	0.13613	intron,near-gene-5	exact	1	NonIntegerChromCount	3	CGM_KYOTO,SNP500CANCER,SSMP,	2	C,T,	7.985000,380.015015,	0.020580,0.979420,	maf-5-some-pop
+642	chr17	7590601	7590602	rs561258067	0	+	C	C	A/C	genomic	single	unknown	0	0	intron,near-gene-5	exact	1		1	1000GENOMES,	2	A,C,	1.000000,5007.000000,	0.000200,0.999800,	
+642	chr17	7590713	7590714	rs531575965	0	+	C	C	C/T	genomic	single	unknown	0	0	intron,near-gene-5,ncRNA,untranslated-5	exact	1		1	1000GENOMES,	2	C,T,	5007.000000,1.000000,	0.999800,0.000200,	
+642	chr17	7590749	7590750	rs574904138	0	+	A	A	A/G	genomic	single	unknown	0	0	intron,near-gene-5,ncRNA,untranslated-5	exact	1		1	EVA-GONL,	0				
+642	chr17	7590776	7590777	rs17884410	0	-	T	T	A/G	genomic	single	unknown	0	0	intron,near-gene-5,ncRNA,untranslated-5	exact	1		3	EGP_SNPS,ILLUMINA,KRIBB_YJKIM,	2	A,G,	169.000000,1.000000,	0.994118,0.005882,	
